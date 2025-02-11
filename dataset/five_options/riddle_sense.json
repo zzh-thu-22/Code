@@ -1,0 +1,5502 @@
+[
+    {
+        "question": "what runs but cant walk?",
+        "choices": [
+            "self",
+            "locomotive",
+            "humans",
+            "traverse",
+            "your nose"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What can be moved through many courses,  While applying on it no forces?",
+        "choices": [
+            "shadow",
+            "draw",
+            "static",
+            "dance",
+            "be still"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is spelled the same backwards upside down and normal?",
+        "choices": [
+            "dusk",
+            "forth",
+            "consortium",
+            "lunch",
+            "noon"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What is in your body for free the first and the second time, but the third time you have to buy yourself?",
+        "choices": [
+            "blood",
+            "body parts",
+            "organs",
+            "teeth",
+            "header"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What grows,   but is not alive?",
+        "choices": [
+            "nice",
+            "animals",
+            "roots",
+            "animal",
+            "hair"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I have two meanings  One meanings involves a hand  the other crashes into sand  What am I?",
+        "choices": [
+            "handglide",
+            "river",
+            "wave",
+            "roll over",
+            "lad"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What storms the clouds with anger  Darting through the sky  Looking for a target  For its firey fury?",
+        "choices": [
+            "thunderstorm",
+            "thunder",
+            "lightning",
+            "blizzard",
+            "thunderhead"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "note:(riddle is told in form of a song)   Bobble O Bobble O Bobble O,  If you know, tell me where i do grow.   High above the lowly earth,  And yet I flourish for all I'm worth.   Bobble O Bobble O Bobble O,  Tell me now if you think you know.   I hang between earth and sky,  Green or brown as the seasons pass by.   As around me all the birds do fly,  And just before winter away go I.   Bobble O Bobble O Bobble O-ohhhh,  Tell me true I'd like you to try!",
+        "choices": [
+            "blossom",
+            "evergreen",
+            "vase",
+            "leaf",
+            "growing"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Glittering points that downward thrust sparkling spears that do not rust what is it?",
+        "choices": [
+            "element",
+            "icicle",
+            "flake",
+            "bottom",
+            "antarctica"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What lies in bed, and stands in bed, first white then red.  The plumber it gets, the better the old woman likes it?",
+        "choices": [
+            "apple",
+            "water",
+            "strawberry",
+            "mark",
+            "guest room"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What we caught, we threw away.  We kept what we didn't catch.  What was it that we kept?",
+        "choices": [
+            "disease",
+            "lice",
+            "refuse",
+            "heliotropism",
+            "tidepools"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Some sad, some good, some bad, some great.   WHAT AM I??????????",
+        "choices": [
+            "onion",
+            "merchandise",
+            "reading",
+            "space shuttle",
+            "people"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Though liquid in nature, don't push me too far; for then I will break, and the damage may scar.     What am I?",
+        "choices": [
+            "steam",
+            "flintlock",
+            "glass",
+            "amphibian",
+            "liquids"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I'm a place where you keep a lot of things; and, in the process of forming a decision, you refer to me.  What am I?",
+        "choices": [
+            "your mind",
+            "store",
+            "nervous system",
+            "quandary",
+            "cell"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What goes with a train.  Stops with a train.  Has no use for the train, but a train can't go two feet without it?",
+        "choices": [
+            "cost money",
+            "change",
+            "ball",
+            "taste",
+            "noise"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "The man who has it doesnt need it,the man who needs it doesnt want it,the man who's in doesnt know it.  What is it",
+        "choices": [
+            "coffin",
+            "overstocking",
+            "steal",
+            "positional",
+            "dead"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "For some I am used to get around.  I never even touch the ground.  Somtimes I fall in a large open tank, and sometimes I float in the air and then raise.  WHAT AM I?",
+        "choices": [
+            "fly",
+            "gas",
+            "bus",
+            "area",
+            "train station"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "what spy is many girl scared of?",
+        "choices": [
+            "getting married",
+            "spider",
+            "washing machine",
+            "father",
+            "daddy"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "what can go around the world and still stay in a corner?",
+        "choices": [
+            "corner of town",
+            "dirt",
+            "utopia",
+            "map",
+            "cabinet"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I am all around, yet to me you are half blind sunlight makes me invisible, and difficult to find what am i ??",
+        "choices": [
+            "weather",
+            "heat",
+            "form",
+            "closeness",
+            "star"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "A harvest sown and reaped on the same day   In an unplowed field,   Which increases without growing,   Remains whole though it is eaten   Within and without,   Is useless and yet   The staple of nations.",
+        "choices": [
+            "capital",
+            "work",
+            "war",
+            "farming",
+            "science"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am up when you are not.  I am cold when you are hot.  What am I?",
+        "choices": [
+            "outer space",
+            "heaven",
+            "communicable disease",
+            "moon",
+            "cold"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "You throw me out when you use me and take me in when you are done what am i?",
+        "choices": [
+            "point",
+            "stay in",
+            "purpose",
+            "couch",
+            "anchor"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "My form is beauteous to the ravish'd sight,      My habit happy, my colour gold or white;      When ladies take the air, I, without pride,      A faithful partner, am close by their side;      I near their persons constantly remain,      A favourite slave, bound with a golden chain;      And though I can both speak and go alone,      Yet are my motions to myself unknown.     -----",
+        "choices": [
+            "nurse",
+            "dancing",
+            "broadcast",
+            "watch",
+            "painting"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I am always there, some distance away, somewhere between land or sea and sky I lay, you may move toward me, yet distant I'll stay.  What am I?",
+        "choices": [
+            "presence",
+            "horizon",
+            "place",
+            "play",
+            "proximity"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am a grin, from something within.   When you're not sad you'll take up my fad.   When you're happy, this'll be snappy.   What am I?",
+        "choices": [
+            "rainbow",
+            "make fun of",
+            "smile",
+            "fun",
+            "low"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am where yesterday follows today and tomarow's in the middle.  What am I?",
+        "choices": [
+            "outside",
+            "tomorrow",
+            "dictionary",
+            "term",
+            "my house"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I can be winding and i can be straight i can be smooth and i can be rough sometimes both i start out black but fade to brown the more i am used my favorite colors are yellow and white, and i love stripes and dashed lines what am i ??",
+        "choices": [
+            "boat",
+            "road",
+            "unravel",
+            "bottom",
+            "turning"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am a man,  I am not Male,   Nor Female.   I have eyes,  But cannot see,  I have a mouth,  But cannot talk.   I like cold Weather.    What am I?",
+        "choices": [
+            "snowman",
+            "girl",
+            "snow",
+            "fire",
+            "transsexual"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What do you call a three humped camel?",
+        "choices": [
+            "female",
+            "camlet",
+            "fat",
+            "earth",
+            "pregnant"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "With many keys but cannot open a single lock",
+        "choices": [
+            "index",
+            "list",
+            "lock box",
+            "safe",
+            "keyboard"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What goes from new york to california without ever moving?",
+        "choices": [
+            "san diego",
+            "highway",
+            "rush",
+            "venice",
+            "retreat"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What has two hands, a round face, always runs, but stays in place?",
+        "choices": [
+            "show",
+            "moustache",
+            "glove",
+            "cake batter",
+            "clock"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "My thunder rolls beneath me, my lightning flares above.  I dust the crust, and when I bust, all I touch will I shove.    What am I?",
+        "choices": [
+            "shell",
+            "bottom of sea",
+            "lightning rod",
+            "hill",
+            "volcano"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "A storm in your cranium",
+        "choices": [
+            "anxiety",
+            "blizzard",
+            "occipital bone",
+            "frontal suture",
+            "headache"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "This food is a staple grain in many pantries world wide you often steam or boil it and serve it in a variety of different ways one brand touts the fact that it can be cooked in 1 minute",
+        "choices": [
+            "color",
+            "bread",
+            "rice",
+            "wheat",
+            "dram"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "You need thousands of me to create a digital image what am i ??",
+        "choices": [
+            "pixel",
+            "needs",
+            "matrix",
+            "graffiti",
+            "man"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I am a poison strong enough to kill the sturdiest of men but I have the power to make even the vilest of dishes irresistible.  What am I?",
+        "choices": [
+            "illness",
+            "hunger",
+            "taco",
+            "tasty",
+            "arsenic"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "You're both in and outside of me;  You guide me but don't ride me;  I can make a statement with a tongue but no mouth.    What am I?",
+        "choices": [
+            "cheek",
+            "movement",
+            "gazelle",
+            "shoes",
+            "head"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Face like a tree  Skin like the sea  A great beast i be   But vermin frighten me  What am i. . .",
+        "choices": [
+            "seal",
+            "head",
+            "beard",
+            "british columbia",
+            "elephant"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What do you put in toasters?",
+        "choices": [
+            "bread",
+            "crumpet",
+            "appliance",
+            "internet cafe",
+            "coffee"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What breaks, but isn't breakable?",
+        "choices": [
+            "play",
+            "man",
+            "like",
+            "guillotine",
+            "your heart"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "When you are in your room and are leaning against something that can be hard but mostly soft. You go to sleep and you are lying down on this. When you get up you are still lying on this.  What am I??",
+        "choices": [
+            "party",
+            "boardroom",
+            "conversation",
+            "divider",
+            "bed"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I talk, but I do not speak my mind I hear words, but I do not listen to thoughts When I wake, all see me When I sleep, all hear me Many heads are on my shoulders Many hands are at my feet The strongest steel cannot break my visage But the softest whisper can destroy me The quietest whimper can be heard.",
+        "choices": [
+            "shut up",
+            "think",
+            "soul",
+            "actor",
+            "mute"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "This is an ancient suit that is not worn with a tie",
+        "choices": [
+            "shirt",
+            "armor",
+            "helmet",
+            "shirt and trousers",
+            "hair"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "If you look in water you might see me yet I never get wet.   What am I?",
+        "choices": [
+            "reflection",
+            "disneyland",
+            "coral",
+            "fish tank",
+            "puddle"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "A man leaves home takes three left turns in a square comes home there is a man in a mask there how does this work?",
+        "choices": [
+            "round",
+            "chess board",
+            "baseball",
+            "four corners",
+            "pond"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What traps warmth,   Sprays forth ice and water,   Yet slips through your fingers with ease?",
+        "choices": [
+            "clouds",
+            "world",
+            "earth",
+            "steam",
+            "lizard"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "what runs but never walks.   what has a mouth but nevber talks???",
+        "choices": [
+            "river",
+            "organism",
+            "toothbrush",
+            "leash",
+            "hole"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "{ yellow yellow sari i wear but i got white childrens who am i",
+        "choices": [
+            "canary yellow",
+            "nirvana",
+            "banana",
+            "orange yellow",
+            "narnia"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "People always ask for me even though they don't like to face me.   What am I?",
+        "choices": [
+            "ancestor",
+            "identity",
+            "truth",
+            "kin",
+            "bed"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "As light as a feather, but you can\u00e2\u20ac\u2122t hold it for ten minutes.   What is It?",
+        "choices": [
+            "backbone",
+            "dust",
+            "jar",
+            "milky way",
+            "your breath"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "i am not a man am i a man or a woman?",
+        "choices": [
+            "man",
+            "farmer",
+            "women",
+            "sex",
+            "goat"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is white when thrown up and white and yellow when thrown down?",
+        "choices": [
+            "white horse",
+            "missouri",
+            "white hope",
+            "egg",
+            "teeth"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I play but I need someone to make me move.  My name ties things up, but that won't help you.  What am I?",
+        "choices": [
+            "football play",
+            "suppliants",
+            "bow",
+            "move quickly",
+            "playoff"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "White bird, featherless, flyin' out o' paradise, flyin' over sea and land, dyin' in my hand.  What is it?",
+        "choices": [
+            "surface",
+            "snowflake",
+            "bird's nest",
+            "metaphor",
+            "satellite"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thirty-two white horses on a red hill.  When you talk, they move.  When you're silent, they stand still.  They can be lost, but replaced only once.",
+        "choices": [
+            "mind",
+            "country",
+            "teeth",
+            "talk",
+            "motion"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Lunch money thief and distributor of wedgies",
+        "choices": [
+            "bully",
+            "pants pocket",
+            "paper money",
+            "bargain",
+            "organization"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is hot when warm coloured,and cold when not?",
+        "choices": [
+            "ice cube",
+            "cobalt",
+            "ice cream",
+            "flush",
+            "fire"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Children keep their assets in this",
+        "choices": [
+            "creche",
+            "cash register",
+            "perisher",
+            "piggybank",
+            "toddler"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I'm sometimes white,   and always wrong.    I can break a heart   and hurt the strong.    I can build love   and tear it down.    I can make a smile,   but more often bring a frown.     What am I?",
+        "choices": [
+            "motion",
+            "score",
+            "lie",
+            "make mistakes",
+            "bread"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Face like a tree skin like the sea a great beast I may be yet vermin frighten me.",
+        "choices": [
+            "climb",
+            "movie",
+            "stars",
+            "see",
+            "nose"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Two little holes in the side of a hill just as you come to the cherry-red mill",
+        "choices": [
+            "farm",
+            "shade",
+            "valley",
+            "nose",
+            "fire"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "You love to visit me.  Once you come, you never want to leave.  Some use me for creativity.   What am I?",
+        "choices": [
+            "space",
+            "imagination",
+            "unpleasant",
+            "purpose",
+            "god"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is it that you can keep after giving it to someone else?",
+        "choices": [
+            "abandon",
+            "need",
+            "sanctuary",
+            "yourword",
+            "leprosy"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "You can hear me and feel me but you can't see me or smell me, yet everyone has a taste in me.  I can be created, but after that only remembered.  What am I?",
+        "choices": [
+            "music",
+            "remembering",
+            "shrinkage",
+            "organ",
+            "opus"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "It's seen in yellow, blue, and red  and defines what's black or white.   Opposite to heavy but can't be lifted,  it makes itself scarce by night.    What is it?",
+        "choices": [
+            "apple",
+            "light",
+            "column",
+            "slender",
+            "wet"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I'm a sport.    my maximum points in a game is unlimited   You Play me woth a ball   you use your bare hands to play me   You dont tackle in this game   i'm not volley ball    What sport am I",
+        "choices": [
+            "soccer",
+            "team sport",
+            "card",
+            "sportswoman",
+            "basketball"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I come in different colors.  I can have windows of different shapes and colors.  I can view all of the world.  What am I?",
+        "choices": [
+            "glasses",
+            "schizophrenia",
+            "work",
+            "sensation",
+            "eyes"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I COME IN ALL SHAPES AND SIZES AND CAN BE ANY COLOR YOU WANT.  I CAN BE USED AS A WEAPON AND SOMETIMES BREAK EASILY, WHAT AM I?",
+        "choices": [
+            "fingernails",
+            "box cutter",
+            "boxers",
+            "search",
+            "shank"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You can break it or drink water from it",
+        "choices": [
+            "glass",
+            "drop",
+            "bottle",
+            "teapot",
+            "hose"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I sit in a corner while traveling around the world what am i?",
+        "choices": [
+            "drawing",
+            "stamp",
+            "building",
+            "pigeon hole",
+            "bad"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What was the first man made invention that could see through a wall?",
+        "choices": [
+            "wall clock",
+            "window",
+            "surface",
+            "schizophrenia",
+            "wall of silence"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When I rest I have one face,  But when I'm flying I show six,  And when my brother joins the pace,  Then twelve faces are in the mix.    What am I?",
+        "choices": [
+            "dice",
+            "pool",
+            "clown",
+            "fourteen legs",
+            "play"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Thick as fog but light as air  You never see me coming  I cloud your sences and grip your life  My ways are truly cunning  I fill a room in now time flat  I can cause folkes to die  My brother and siter are solid and wet  But tell me what am I?",
+        "choices": [
+            "buoyant",
+            "void",
+            "candlelight",
+            "gas",
+            "oil"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Sometimes I'm blue, Sometimes I'm gray, Sometimes I'm filled with water, Sometimes I am full of fragrent colors.  What am I?",
+        "choices": [
+            "pond",
+            "bugs",
+            "sea",
+            "sky",
+            "paintings"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What has a tounge, can't speak but can walk?",
+        "choices": [
+            "shoe",
+            "counterpart",
+            "area",
+            "subordinate",
+            "horse"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "These are great, floaty fun until they explode and give you a little scare",
+        "choices": [
+            "pants",
+            "balloon",
+            "games",
+            "riding",
+            "contain water"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "tear one off and scratch my head                     what once was red is black                          instead",
+        "choices": [
+            "godhead",
+            "dunderhead",
+            "match",
+            "bind",
+            "ear"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I have no one home and do not live.  But I do have a treasure that lies within.  I come in all shapes and all sizes, just open me up for your share of the knowledge.",
+        "choices": [
+            "treasure hunting",
+            "bed",
+            "performances",
+            "clothing",
+            "book"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "It sat upon a willow tree, and sang softly unto me easing my pain and sorrow with its song i wished to fly, but tarried long and in my suffering, the willow was like a cool clear spring what was it that helped me so? to spend my time in my woe",
+        "choices": [
+            "vessel",
+            "weeping willow",
+            "pterocarpus",
+            "bead tree",
+            "bird"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "This type of corn swells up and bursts into a crisp puff when heated",
+        "choices": [
+            "corn husk",
+            "popcorn",
+            "pizza",
+            "full of air",
+            "husks"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "How many times does the long hand of the clock pass the short hand between midnight one day and midnight the following day? As both hands are together at the starting time of midnight this does not count as a pass.",
+        "choices": [
+            "grass",
+            "morse code",
+            "21",
+            "snub",
+            "earth"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am round.  you play with me.  but you can't throw me.  If you throw me you will hear a crash.  What am I ?",
+        "choices": [
+            "frustation",
+            "bowling ball",
+            "action",
+            "plaid",
+            "playschool"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "It has space but no room. It has keys but no doors. You can enter but not go in. What am I?",
+        "choices": [
+            "computer keyboard",
+            "fireplace",
+            "spacecraft",
+            "office",
+            "latchkey"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Stapler it % eat the lead, what's it?",
+        "choices": [
+            "very heavy",
+            "news article",
+            "seed",
+            "peanut",
+            "goody"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What dress does everyone have, but no one wears?",
+        "choices": [
+            "address",
+            "blouse",
+            "clothes",
+            "material",
+            "bodice"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "whats the most common thing found in a pocket?",
+        "choices": [
+            "hand",
+            "glasses case",
+            "back pocket",
+            "garment",
+            "shirt pocket"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is in front of a woman and in back of a cow?",
+        "choices": [
+            "barnyard",
+            "w",
+            "cow pasture",
+            "slaughter house",
+            "cinderella"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What traps a star in its belly but can be held in your hand?",
+        "choices": [
+            "lantern",
+            "apple",
+            "column",
+            "dresser",
+            "constellation"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I can hurt, I can help, I'm kind, Sometimes I'm not, I can be said, You can hear me, Yet you can't see neither touch me.  What am I?",
+        "choices": [
+            "words",
+            "polish",
+            "people",
+            "foe",
+            "quality"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "a guy is in a house for 3 months nobody visits him. he locks all the doors and closes all the lights for a result that 100 people die. what house is he in?",
+        "choices": [
+            "chalet",
+            "material",
+            "office",
+            "lighthouse",
+            "palace"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is stronger than steel but cowers from the sun?",
+        "choices": [
+            "cloud",
+            "lumberyard",
+            "junkyard",
+            "hydrogen",
+            "ice"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What didn't Adam and Eve have that everyone else has?",
+        "choices": [
+            "adam",
+            "parents",
+            "man",
+            "methylenedioxymethamphetamine",
+            "hut"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A goofy creature that produces fine wool and like to spit at you",
+        "choices": [
+            "expensive clothing",
+            "llama",
+            "eye",
+            "lamb",
+            "fate"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "i shine at night what am i",
+        "choices": [
+            "sunshine",
+            "stars",
+            "street corner",
+            "i'm hungry",
+            "shining"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "where can you find a city that cant be seen   where can tou find a road that cant be driven on  where can you find a building that you cant go into.   What am i?",
+        "choices": [
+            "earth",
+            "map",
+            "noise",
+            "iowa",
+            "computer"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "you see me everyday in your house, yet you can never shake my hand  What am I?",
+        "choices": [
+            "fig leaf",
+            "letter",
+            "study",
+            "earth",
+            "your reflection"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "some thing was made by a carpenter  then the carpenter sold it and  the buyer bought it and gave it to the user  the user never even saw it.    What is the object?  Clue- the object is made of wood",
+        "choices": [
+            "sand",
+            "coffin",
+            "change",
+            "toolbox",
+            "hardware store"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "You buy my time.    I stand in line  If I am happy,  you won't be fine.",
+        "choices": [
+            "post office",
+            "parking meter",
+            "infinite",
+            "store",
+            "race track"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am the place to turn when nature calls what am i?",
+        "choices": [
+            "diner",
+            "bed",
+            "bathroom",
+            "support",
+            "stop"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is thick, but also at the same time thin?",
+        "choices": [
+            "active",
+            "your mind",
+            "feathers",
+            "cheese",
+            "food store"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "i have a soul, body ,and tongue.           What am i",
+        "choices": [
+            "tongue",
+            "shoe",
+            "bodice",
+            "anatomical structure",
+            "church"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "People are driven through the day by me  Late nights I do inspire  If not contained I run wild  What am I?",
+        "choices": [
+            "film",
+            "coffee",
+            "learn things",
+            "holding",
+            "minister"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "There is a cowboy who rode on a horse to check in in a hotel. He arrives there friday and leaves on friday. But he only stays there for three days. How is that possible?",
+        "choices": [
+            "his horses name is friday",
+            "piece of paper",
+            "amusement",
+            "entry",
+            "canada"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "A man says:  \"Brothers and Sisters I have none, but that man's father is my father's son.   Who was he pointing at?",
+        "choices": [
+            "lady",
+            "pen",
+            "his son",
+            "sex",
+            "descendant"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What feature of a bird flies through the water without getting wet, but is in tha air at tha same time?",
+        "choices": [
+            "wings",
+            "feathers",
+            "its shadow",
+            "nest",
+            "hole"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "what can you see in water that does not get wet?",
+        "choices": [
+            "body of water",
+            "fog",
+            "seawater",
+            "your reflection",
+            "deep"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I play on a diamond,  I play fair,  I always get dirty,  And then I run home.    What Am I?",
+        "choices": [
+            "baseball bat",
+            "street corner",
+            "building",
+            "satyr play",
+            "baseball player"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "i am soft yet hard, i am fruity yet sweet, i am liquid yet solid, i am colourful yet clear. . . . . what am i??",
+        "choices": [
+            "jelly",
+            "vessel",
+            "clam",
+            "sweet",
+            "coral"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I love to move around, But usually not on the ground.  I'm quite strung out when way up high.  I like to sail, but I need to stay dry.  I need air, but not to breathe.  A helpful hand is all I need.  What am I?",
+        "choices": [
+            "kite",
+            "freshness",
+            "sound waves",
+            "run away",
+            "dish"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "A large oasis in the desert come with cash and leave with none what am i ??",
+        "choices": [
+            "permission",
+            "devise",
+            "lasvegas",
+            "sand dunes",
+            "mural"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A thing which falls but never gets hurt ???",
+        "choices": [
+            "ball",
+            "punch",
+            "boat",
+            "place",
+            "put a bar"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What has branches and leaves but has no bark?",
+        "choices": [
+            "bank",
+            "library",
+            "front door",
+            "help",
+            "dust"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I go into the water black and come out red.  What am I?",
+        "choices": [
+            "pipe",
+            "body of water",
+            "downpour",
+            "person's hand",
+            "lobster"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What can one not keep, two hold, and three destroy?",
+        "choices": [
+            "pass",
+            "fiction",
+            "secret",
+            "lose",
+            "data"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "One Day three blonds were walking down the beach.  They came aross a magic lamp.  When they rubed it a genie came out.  Since there was three of them, the genie said they could each have one wish.  The first dumb blond wished to be 10% smarter, so the genie turned into a bruette. The second blond wished to be 20% smarter, so the genie turned her into a red head.  The third blond thought she was smart enough, so she wished to be 30% dumber.  What did the genie turn her into?",
+        "choices": [
+            "man",
+            "niagra falls",
+            "job",
+            "ram",
+            "modern"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What gets wetter as you get dryer?",
+        "choices": [
+            "dryers",
+            "towel",
+            "shrinkage",
+            "wash",
+            "appliance"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Everyday I see me.  I can't make it stopfor it is nearly in every step I take.  What am I?",
+        "choices": [
+            "passage",
+            "single",
+            "exercise",
+            "reflection",
+            "surface"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When you have me not, you want me.  But when you have me, you do not know.  What am I?",
+        "choices": [
+            "being missing",
+            "learning",
+            "unknowingness",
+            "information",
+            "sleep"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What has keys but no locks,   & has space but no rooms?",
+        "choices": [
+            "safe",
+            "ignition switch",
+            "computer",
+            "pound",
+            "matter"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am unbreakable.  Even when you break me, I'm still not broken.  What am I?",
+        "choices": [
+            "spring",
+            "stop",
+            "cut",
+            "wind",
+            "surf"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Those who have it least don't know that they have it.  Those who have it most wish they had less of it, but not too little or none at all.  What is it?",
+        "choices": [
+            "chump change",
+            "world",
+            "few",
+            "age",
+            "being"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What kind of table is good for you to eat?",
+        "choices": [
+            "fair",
+            "puppy",
+            "shop",
+            "vegetable",
+            "meat"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I'm not an airplane, but I can fly through the sky.    I'm not a river, but I'm full of water.    What am I?",
+        "choices": [
+            "helicopter",
+            "breathing",
+            "outside",
+            "planet",
+            "cloud"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What flares up and does a lot of good, and when it dies is just a piece of wood?",
+        "choices": [
+            "fun",
+            "match",
+            "link",
+            "woodworker",
+            "combustion"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Often wandering the streets, this group of people cannot afford to be choosers",
+        "choices": [
+            "beggars",
+            "dog shit",
+            "commit crime",
+            "have no home",
+            "neighbourhood"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "32 white horses on a red hill.  First Chomping, then stomping, then standing still.  What am I describing?",
+        "choices": [
+            "your mouth",
+            "kansas",
+            "countryside",
+            "a speeding car",
+            "rider"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Scythe of darkness, Shadow's light.  Guiding eye Of thirteenth sight.",
+        "choices": [
+            "moon",
+            "attic",
+            "night",
+            "hide",
+            "semidarkness"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "A man left home one day,made three left turns and met a man with a mask on.  What was the first man's profession ?",
+        "choices": [
+            "baseball player",
+            "taxi driver",
+            "line",
+            "masquerade",
+            "Masked man"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "It stands on one leg with its heart in its head.    What is it?",
+        "choices": [
+            "cabbage",
+            "animal",
+            "computer game",
+            "weight",
+            "beer"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "A wee wee man  In a red red coat  Staff in my hand  And a stone in my throat.",
+        "choices": [
+            "pickle",
+            "green",
+            "steel",
+            "cherry",
+            "fire"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "There is a house,if it rains ,there is water in it and if it doesn't rain,there is water in it. what kind of house is that?",
+        "choices": [
+            "housemaster",
+            "watermark",
+            "bathroom",
+            "pump house",
+            "front door"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "when I am in am unuseful. When i am out I am useful.  what am I??",
+        "choices": [
+            "oil refinery",
+            "productive",
+            "advantageous",
+            "cupboard love",
+            "anchor"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Small land in water what am i??",
+        "choices": [
+            "bugs",
+            "sea",
+            "buffer zone",
+            "trout",
+            "island"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "They are fetched in the dark with no call.    They are taken in the light with out be stolen.    What are they?",
+        "choices": [
+            "stars",
+            "blue",
+            "message",
+            "sunlight",
+            "room"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You might accuse someone living with a stolen identity of being this",
+        "choices": [
+            "head",
+            "imposter",
+            "animal",
+            "personality",
+            "schizophrenia"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Its ready to walk when I'm all tied up, but really should stop when I'm untied.  What am I?",
+        "choices": [
+            "joyride",
+            "brake",
+            "felt",
+            "shoes",
+            "rub"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What has no heart  Yet is alive?  It never moves  People stab it with knives.",
+        "choices": [
+            "student",
+            "fair",
+            "tree",
+            "game",
+            "flower"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am square or rectangle, i see you in the bathroom, i see at school, i even see you at all the stores, when im dirty you clean me, when im broke you fix me, what am i?",
+        "choices": [
+            "writer",
+            "jeans",
+            "fifties",
+            "mirror",
+            "plumbing"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "it is lighter than itself, it is very polluted, but it looks clean.  you can put your whole body in it, and can change up the temperature.  it can kill you, but it helps you survive.",
+        "choices": [
+            "hair",
+            "mist",
+            "skin",
+            "channel",
+            "air"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "im white im round, but im not always around,  im light, im dark, sometimes im both,  everybody wants to walk on me,but only few happy feet ever have    What am i?",
+        "choices": [
+            "sandwich",
+            "real",
+            "flat",
+            "moon",
+            "Alive"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is big but afraid of small? Wgat is loud, but afraid of quiet?",
+        "choices": [
+            "river",
+            "elephant",
+            "body part",
+            "buffalo",
+            "branch"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "When you stop and look, you can always see me.  If you try to touch you cannot feel me.  I cannot move, but as you near me, I will move away from you.  What am I?",
+        "choices": [
+            "far",
+            "object",
+            "contact",
+            "horizon",
+            "nowhere"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Dead on the field lie ten soldiers in white, Felled by three eyes, black as night.  What happened?",
+        "choices": [
+            "countryside",
+            "shark",
+            "bowling ball",
+            "bat",
+            "action"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Possibly the only famous plumber who has the courage to ever to rescue a princess",
+        "choices": [
+            "hollywood",
+            "wallflower",
+            "heroism",
+            "elevator",
+            "mario"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What has a neck but no head, and wears a cap?",
+        "choices": [
+            "fog",
+            "be",
+            "bottle",
+            "washboard",
+            "head"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Who plays when he works and works when he plays?",
+        "choices": [
+            "theater",
+            "fun",
+            "actor",
+            "hockey game",
+            "entertain"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "The things I bite, they don't bleed,  I don't bite until you push me;  I bring my victims together each time I bite,  But they'll come undone if you pull it just right.   What am I?",
+        "choices": [
+            "stapler",
+            "jar",
+            "bag",
+            "door",
+            "spoon"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I have eighty\u00ad eight keys but cannot open a single door? What am I?",
+        "choices": [
+            "polytonality",
+            "door knob",
+            "block",
+            "front door",
+            "piano"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What kind of money do vampires use?",
+        "choices": [
+            "bookstore",
+            "treasure chest",
+            "convert",
+            "fisherman",
+            "blood"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Whoever makes it, tells it not; whoever takes it, knows it not; and whoever knows it, wants it not.   What is it?",
+        "choices": [
+            "counterfeit news",
+            "desire",
+            "counterfeit money",
+            "name",
+            "Manipulate"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I saw a creature: his stomach stuck out behind him, enormously swollen.    A stalwart servant waited upon him.  What filled up his stomach   had travelled from far, and flew through his eye.    He does not always die in giving life   to others, but new strength revives   in the pit of his stomach; he breathes again.    What is he?",
+        "choices": [
+            "heart",
+            "income tax",
+            "demonstrative pronoun",
+            "bellows",
+            "human face"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I no longer have eyes, but once I did see.  Once I had thoughts, but now I'm white and empty.  What am I?",
+        "choices": [
+            "see things",
+            "point",
+            "skull",
+            "frost",
+            "sockets"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "My first is ocean but not in sea, my second in milk but not in me my third is in three but not in throw, my fourth in vow but not in crow my fifth is in eight but not in night, my last is in wrong and also right my whole is praise for thoughts or men; or women, too, or tongue or pen",
+        "choices": [
+            "center",
+            "clever",
+            "incorrect",
+            "belle",
+            "detective"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What wave cant you surf on?",
+        "choices": [
+            "sea water",
+            "rise",
+            "fluctuation",
+            "microwave",
+            "surfboard"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "There was a man dead and in a coffin.  stood next to the dead man was another man.  the door opened and another man walked in and said to the man next to the coffin \"who is this man to you\".  the man replied with \" brothers and sisters i have none but this mans father is my fathers son\". . . .  who is the dead man to the man stood next to him????????",
+        "choices": [
+            "cousin",
+            "adult",
+            "baby",
+            "his son",
+            "alive"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "There was a green house in the green house was a white house in that white house was a red house in that red house where eggs.  What is it?",
+        "choices": [
+            "salt",
+            "jar",
+            "the park",
+            "supermarket",
+            "watermelon"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "If you break me I do not stop working, If you touch me I may be snared, If you lose me nothing will matter.  What am I?",
+        "choices": [
+            "injury",
+            "my wallet",
+            "your heart",
+            "my favorite",
+            "faucet"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "loser are green but i am yellow what am????",
+        "choices": [
+            "pigment",
+            "bee hive",
+            "bee",
+            "lizard",
+            "yellow person"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Every night I'm told what to do and each morning I do what I'm told, but I still do not escape your scold.   What am I?",
+        "choices": [
+            "wood",
+            "become tired",
+            "fire",
+            "alarm clock",
+            "prison"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I ride, i ride; no tracks are left i chop and chop; there are no chips left he rides and rides; turns around: there is no road left",
+        "choices": [
+            "games",
+            "transfer",
+            "roller coaster",
+            "part",
+            "boat"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What has one foot on each side and one in the middle?",
+        "choices": [
+            "yardstick",
+            "footbed",
+            "yard",
+            "support",
+            "sock"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Air that is expelled orally",
+        "choices": [
+            "plain",
+            "burp",
+            "catch cold",
+            "omedical device",
+            "sleep"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "yellow and furry   but not cuddly   you cant hold it and snuggle  but it is still a feline",
+        "choices": [
+            "neck",
+            "lion",
+            "viking",
+            "alley",
+            "jungle cat"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "One who has offended the government and has been detained by it",
+        "choices": [
+            "weird",
+            "inmate",
+            "prisoner",
+            "vizier",
+            "celebrity"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What runs distances and make many turns along the way, yet it never moves one foot?",
+        "choices": [
+            "fly",
+            "cross street",
+            "watch",
+            "season",
+            "move"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What can go up or down.  Yet never sideways and can have a numerous amount of numbers.",
+        "choices": [
+            "counter",
+            "clothing",
+            "tool",
+            "route",
+            "elevator"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "what stays in a corner and travels all over the worl?",
+        "choices": [
+            "transfer",
+            "stamp",
+            "post",
+            "corner light",
+            "painting"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "bill has been married for ten years,and his wife says,\"my anniversary present better be on the driveway tommarow, and it better go from 0-200 in 2 seconds. \" a small package shows up for her the next morning, what is it?",
+        "choices": [
+            "prime",
+            "mouse",
+            "fuse",
+            "town",
+            "scale"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What kind of a nut has a hole?",
+        "choices": [
+            "donut",
+            "rabbit burrow",
+            "jar",
+            "squirrel",
+            "entry"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You'll find me once in every minute, twice in every moment, but no matter how hard you look, you'll never find me in 100,000 years.",
+        "choices": [
+            "night",
+            "waste",
+            "fraction",
+            "daytime",
+            "m"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Caught between two,  What do I do?  First, when  Last, now  What am I?",
+        "choices": [
+            "entrance",
+            "boyfriend",
+            "fishing",
+            "two sides",
+            "w"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I am a tree, but I am very small. . .  Who am I?",
+        "choices": [
+            "palm",
+            "grass",
+            "sunshine",
+            "bird nests",
+            "tupelo"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "We dwell in cottages of straw, and labor much for little gains; sweet food from us our masters draw, and then with death reward our pains",
+        "choices": [
+            "straw hat",
+            "bees",
+            "straw bales",
+            "being",
+            "gnome"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I never was, am always to be.  No one ever saw me, nor ever will.  And yet I am the confidence of all, To live and breathe on this terrestrial ball.   What am I?",
+        "choices": [
+            "today",
+            "fear",
+            "tomorrow",
+            "forever",
+            "yesterday"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What am i? I am with you.  I hold your love hate and fair likeness.  I beat to my own rythm at different times. What am I?",
+        "choices": [
+            "college",
+            "basket",
+            "police officer",
+            "party",
+            "heart"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Name the only sport in which the ball is always in possession of the team on defense, and the offensive team can score without touching the ball?",
+        "choices": [
+            "handle",
+            "athlete",
+            "baseball",
+            "ball bearing",
+            "basketball"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "At day i play.   At night i hide.          I'm always right behind you.   You can neveralways now when you can see me.   I'm very secretive.                      What am i?",
+        "choices": [
+            "frogs",
+            "invisible",
+            "daytime",
+            "plough",
+            "shadow"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Thier once was a man on Mayberry street who kept his clothes all nice and neet he tilted his hat an drew his cane in this riddle I said his name.",
+        "choices": [
+            "chest",
+            "voice",
+            "andrew",
+            "japan",
+            "street corner"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "As a whole, I am both safe and secure.   Behead me, and I become a place of meeting.   Behead me again, and I am the partner of ready.   Restore me, and I become the domain of beasts.   What am I?",
+        "choices": [
+            "wife of",
+            "poll",
+            "detestable",
+            "Dissolve",
+            "stable"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Sometimes I am feared, sometimes I am loved, soemtimes you wish I was real, sometimes you are glad I left you, but no matter what I always come back, although I always change, you may remember me, but sometimes you dont, you think you feel in me, but you don't, all you know, is that you saw me once, and you will see me again very soon.",
+        "choices": [
+            "dream",
+            "hallucination",
+            "dinosaurs",
+            "publication",
+            "land"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "the more you take the moreyouleave behind",
+        "choices": [
+            "footsteps",
+            "vier",
+            "more weight",
+            "valuable",
+            "take away"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I am a prisoner trapped and i cant escape but i have glipses of daylight but only when my master is being rude also i am quite long aswell as being slimy my main objective in life is to deal with food.    What am I?",
+        "choices": [
+            "polish",
+            "moustache",
+            "tongue",
+            "cards",
+            "player"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "You see me everyday, you surely use me.   You can taste what gets on me and I help you clean, you can also feel me, and see me but what am I?",
+        "choices": [
+            "toothbrush",
+            "wig",
+            "reading",
+            "means",
+            "get dirty"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "which is the key that kicks",
+        "choices": [
+            "donkey",
+            "open doors",
+            "foot",
+            "seat",
+            "carriage"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I run distances, often making many turns, yet i never move one foot.  What am I ?",
+        "choices": [
+            "bottom of sea",
+            "bottom of ocean",
+            "fence",
+            "quandry",
+            "bone"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "what lion can not roar and can't move",
+        "choices": [
+            "ivory coast",
+            "sphinx",
+            "savannah",
+            "lioness",
+            "lion's den"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Thirty white horses on a red hill,  first they champ,   then they stamp,  then they stand still.       ? what am i talking about ?",
+        "choices": [
+            "teeth",
+            "bad breath",
+            "steak",
+            "breeding",
+            "cottage cheese"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Which building has many stories?",
+        "choices": [
+            "library",
+            "tall building",
+            "apartment building",
+            "level",
+            "ghetto"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "it is hard and dry then it is soft and wet",
+        "choices": [
+            "shirt",
+            "rug",
+            "gum",
+            "shirt pocket",
+            "milk"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Which side of a cat always has the most fur?",
+        "choices": [
+            "paws",
+            "whisker",
+            "salon",
+            "petting",
+            "outside"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "She's like a model, sprouts true beauty.    Sends sexual shock waves to others and withers away in the end on contests.   Her arms extends freely to reach the crowns, that's shiny and clear and helps her along in life, what is she?",
+        "choices": [
+            "bushes",
+            "misshapen",
+            "rubber band",
+            "put together",
+            "rose"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "My sides are firmly laced about, Yet nothing is within; You'll think my head is strange indeed, Being nothing else but skin.",
+        "choices": [
+            "port",
+            "hat",
+            "frontal lobe",
+            "liquid",
+            "drum"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Though it be cold, i wear no clothes, the frost and snow i never fear; i value neither shoes nor hose, and yet i wander far and near: my diet is forever good, i drink no cider, port, nor sack, what providence doth send for food, i neither buy, nor sell, nor lack what am i ??",
+        "choices": [
+            "prepare",
+            "deep",
+            "recipe",
+            "hunt",
+            "fish"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Useful tool for who in darkness dwell.  Within you, corrupting like a deadly spell.",
+        "choices": [
+            "misfortune",
+            "highway",
+            "poison",
+            "witch",
+            "walking"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What does the \"m\" in \"wom\" stand for?",
+        "choices": [
+            "mouth",
+            "wash",
+            "shade",
+            "marriage",
+            "stadium"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What begins when things end and ends all things that begin?",
+        "choices": [
+            "endothelium",
+            "action",
+            "endometrium",
+            "death",
+            "endonuclease"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When I come I bring life   When I leave I am Invisble  I'm usally the beginning of good or bad  When I'm here everyone scatters, protects themselves and hides  When I leave usally more of me arrives",
+        "choices": [
+            "rain",
+            "reel",
+            "airport",
+            "space",
+            "come back"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I wear a big hat with a long tail, my specialty is making darkness disappear.  You need me for survival.  What am I?",
+        "choices": [
+            "lamp",
+            "fairy tale",
+            "semidarkness",
+            "kitten",
+            "column"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What runs around a barn but stays still?",
+        "choices": [
+            "arena",
+            "sport",
+            "tack",
+            "fence",
+            "town"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I fall but I never get back up  I'm unique but I'm not a fingerprint  I'm sometimes part of a ball but I'm not leather  If I get warm enough I go away but I'm not a winter wardrobe  I'm sometimes part of a man but I don't have any skin   What could I be?",
+        "choices": [
+            "running",
+            "spray",
+            "snow",
+            "amethyst",
+            "body of water"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What has a bed but does not sleep, and can run but cannot walk?",
+        "choices": [
+            "loft",
+            "guest room",
+            "river",
+            "skiing",
+            "bed and breakfast"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "You heard me before, and then again afterward i die, until you call me again what am i?",
+        "choices": [
+            "echo",
+            "pall",
+            "integrated circuit",
+            "rest",
+            "talk"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Causes bad breath and frightens blood-suckers",
+        "choices": [
+            "tuna",
+            "iron",
+            "trash",
+            "garlic",
+            "pubs"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Feared on the playground, he steals your lunch money and distributes wedgies",
+        "choices": [
+            "organization",
+            "janitor",
+            "learning",
+            "bully",
+            "brave"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Dorothy had a severe disagreement with a woman of this magical persuasion",
+        "choices": [
+            "woman of letters",
+            "witch's nest",
+            "gynarchy",
+            "witch",
+            "video game"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I am everywhere, I can be a friend or a deadly foe, I love to fight, I can go easy or kill you as easy as please, I can never be beaten for long and all have fought me before, I will get you eventually and when I do I will win, I am always, I will out live mountains and seas and mankind and i am all ways there, what am i",
+        "choices": [
+            "forests",
+            "territorial waters",
+            "japanese waiter",
+            "sand",
+            "bacteria"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What word is the same fowards, backwards and up-side down?",
+        "choices": [
+            "earth",
+            "row boat",
+            "swims",
+            "catfish",
+            "bird"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I'm a god, a planet, and measurer of heat.   Who am I?",
+        "choices": [
+            "jupiter",
+            "mercury",
+            "ohio",
+            "walmart",
+            "living"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What does someone else have to take before you can get?",
+        "choices": [
+            "read book",
+            "manual",
+            "skill",
+            "photograph",
+            "look for"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "This is a very old riddleHolding two swords and eight spears and dressed in a cow-leather tunic, I peek through a hole in the door.   What am I?",
+        "choices": [
+            "javelin",
+            "crab",
+            "tent",
+            "conquer opponent",
+            "office"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "This thing runs but cannot walk, sometimes sings but never talks lacks arms, has hands; lacks a head but has a face",
+        "choices": [
+            "stand",
+            "ears",
+            "secretary",
+            "clock",
+            "body part"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "This is the most famous bank where children keep their assets",
+        "choices": [
+            "repository",
+            "penny",
+            "bank vault",
+            "piggybank",
+            "pig"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is at the end of everything?",
+        "choices": [
+            "g",
+            "terminal",
+            "line",
+            "conclusion",
+            "endoderm"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Come A  Riddle Come A Raddle Come A Rat Tat Tat.  A Wee Wee Man In A Red Red Hat, With A Staff In His Hnad And A Stone In His Throat, Tell me This Riddle And Il'l Give You A Groat",
+        "choices": [
+            "hole",
+            "cherry",
+            "fire",
+            "water",
+            "country"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Voiceless it cries,   Wingless flutters,   Toothless bites,   Mouthless mutters.    What am I?",
+        "choices": [
+            "snakebite",
+            "nowhere",
+            "name",
+            "wind",
+            "vacuum"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I am always on top of things, yet I can reach the bottoms of the ocean.   I feel good, yet I hurt and sting.   You can capture me, but you can't hold me.   With too much of me, you can't see and with not enough of me, you can't see!                     What am I?",
+        "choices": [
+            "sunshine",
+            "wind",
+            "fly",
+            "sunlight",
+            "earth"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Some use it as a weapon,  Others as a shield,  Without it you would most likely die,  With it you are weak,  It is man-made and can be dangerous  What am I?",
+        "choices": [
+            "instrument",
+            "play",
+            "confidence",
+            "power",
+            "defeat"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A man and his son, were in an accident, two ambulances came, the first ambulance took the father to hospital A, and the other ambulance took the son to a different hospital.    The son was admitted into the Emergency Room, and he required immediate surgery, the doctor came, looked at the child, and said \"I cannot operate on this child, he is my son! Explain",
+        "choices": [
+            "doctor is his mother",
+            "father is his father",
+            "nurse",
+            "society",
+            "trash"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What do you throw away that keeps on returning?",
+        "choices": [
+            "throwaway bin",
+            "waste bin",
+            "boomerang",
+            "return on investment",
+            "unwanted pregnancy"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "We are a round stone fruit with juicy yellow flesh and downy pinkish-yellow skin that is often sweet or tar in taste what are we?",
+        "choices": [
+            "apple",
+            "skin",
+            "stonecrop",
+            "begging",
+            "peach"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "My first is in cat but not in dog,My second is in low but not in high,My third is in Eve but not in Adam,My forth is in van but not in bus,My fifth is in Earth but not in Mars,My sixth is in rose but not in violet, What Am I?",
+        "choices": [
+            "quintessence",
+            "fever",
+            "mother",
+            "fardel",
+            "clever"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What gets fat without eating  and cries when not sad  What gives birth without concieving  and shouts when not mad?",
+        "choices": [
+            "getting drunk",
+            "lean",
+            "clouds",
+            "get sick",
+            "dish"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I have eyes but im blind and I have skin but I no blood.  I was once alive but now I'm not.  What am I?",
+        "choices": [
+            "naked eye",
+            "crib",
+            "potato",
+            "OCTOBER",
+            "needle"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "You bury me when I'm alive and dig me up when I'm dead.   What am I?",
+        "choices": [
+            "plant",
+            "hole",
+            "museum",
+            "bat",
+            "dolphin"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Half-way up the hill, I see thee at last.    Lying beneath me with thy sounds and sights -   A city in the twilight, dim and vast,   With smoking roofs, soft bells, and gleaming lights.",
+        "choices": [
+            "store",
+            "politician",
+            "past",
+            "horizon",
+            "houses"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I run around the city, but i never move what am i ??",
+        "choices": [
+            "wall",
+            "apartment building",
+            "intersection",
+            "water",
+            "church"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "It's the only vegetable or fruit that is never sold frozen, canned, processed, cooked, or in any other form but fresh.  What is it?",
+        "choices": [
+            "meat",
+            "bread",
+            "mold",
+            "jelly",
+            "lettuce"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "People call me accordingly.  Though I'm living, you won't think so.",
+        "choices": [
+            "parents",
+            "class",
+            "Corpse",
+            "christians",
+            "now"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I can be well spent or I could be lost  I can not be bent but I can be bought  I am something that can not be found in a store  Because I will be here when you are here no more",
+        "choices": [
+            "present",
+            "giving",
+            "rich",
+            "expire",
+            "time"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "If a green man lives in a green house,  a purple man lives in a purple house,  a blue man lives in a blue house,  a yellow man lives in a yellow house,  a black man lives in a black house.   Who lives in a White house?",
+        "choices": [
+            "apartment building",
+            "ventilation system",
+            "president",
+            "stairway",
+            "neighborhood"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What demameds an answer,   but ask no question?",
+        "choices": [
+            "phone",
+            "lizard",
+            "response",
+            "state",
+            "learning"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Warns of deflating tires and serpents",
+        "choices": [
+            "puff up",
+            "clothes",
+            "warning",
+            "hiss",
+            "hydra"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I can slash but I have no knife,  I can dash but I have no legs,  I can pound but I have no hammer,  I can star but I have no stage.   What am I?",
+        "choices": [
+            "marching band",
+            "fingers",
+            "spoon",
+            "keyboard",
+            "musician"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What do you really want but waste it on useless stuff or give it away?",
+        "choices": [
+            "talent",
+            "attention",
+            "treasure",
+            "money",
+            "soap"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I'm at a cornor and really small.  I'm the size as 2 ants, and i fly around parts of the world.  What am I?",
+        "choices": [
+            "staple",
+            "encyclopedia",
+            "stamp",
+            "word",
+            "born"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What number do you get when you multiply all of the numbers on a telephone's dial pad?",
+        "choices": [
+            "social security number",
+            "zero",
+            "single",
+            "end of line",
+            "satisfaction"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What owns a bank, but never uses money? What runs but never walks?",
+        "choices": [
+            "casino",
+            "motion",
+            "walk",
+            "waterside",
+            "sea"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "You deal with them and they deal chance, they show you your future at a glance you play them and they play you back, and win or lose, they go back in their pack",
+        "choices": [
+            "revoke",
+            "fortune telling",
+            "casinos",
+            "hockey game",
+            "cards"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "who am i that hides inside the man  and leaves him when he dies  i go up or down depending on how he lived his life  who am i?",
+        "choices": [
+            "mind",
+            "will",
+            "soul",
+            "album",
+            "man's mind"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I have a mouth but don't have a hand I have a body but don't have feet. Try me",
+        "choices": [
+            "mountain",
+            "humans",
+            "its",
+            "taco",
+            "bank"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "It has no hinges.  It has no door.  It has no key.  Yet, there is a yellow treasure inside.",
+        "choices": [
+            "bee",
+            "jamb",
+            "egg",
+            "custard",
+            "vault"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "{ People walk on me day and night.   I never sleep. . . . . .      Who am I?",
+        "choices": [
+            "street corner",
+            "brains",
+            "hypocrites",
+            "bus depot",
+            "sidewalk"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I am the outstretched fingers that seize and hold the wind.  Wisdom flows from me in other hands.  Upon me are sweet dreams dreamt.  My merest touch brings laughter.  What am I?",
+        "choices": [
+            "covering",
+            "muscle",
+            "palm",
+            "feather",
+            "bunting"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is black and white with a cherry on top?",
+        "choices": [
+            "light",
+            "coal",
+            "police car",
+            "clarinet",
+            "box of chocolates"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am here to keep the weather out  I am clear unless unwashed  I am here so you can see sky  I am smooth unless a crack in me",
+        "choices": [
+            "hit",
+            "window",
+            "defy gravity",
+            "weather",
+            "frontal"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "i swim,i holar,i can get on peoples nerves other times people watch me and they gather in big herds. what am i.",
+        "choices": [
+            "aquarium",
+            "row boat",
+            "boomerang",
+            "annoying",
+            "whale"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "It goes up, but at the same time goes down.  Up toward the sky, and down toward the ground.  It's present tense and past tense too, come for a ride, just me and you.    What is it?",
+        "choices": [
+            "spiral",
+            "molehill",
+            "theatre",
+            "seesaw",
+            "stand"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Forward I am heavy, backword I am not.  What am I?",
+        "choices": [
+            "ton",
+            "front",
+            "bold",
+            "main",
+            "contention"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Formed long ago, yet made today,   Employed while others sleep.   What none would freely give away.   Nor any wish to keep.",
+        "choices": [
+            "fall asleep",
+            "store",
+            "office",
+            "bed",
+            "factory"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "You see me not but you know i am there.  You can lose me or catch me without much care.  Smell good or smell bad I am. . .",
+        "choices": [
+            "wave",
+            "spirit",
+            "clock",
+            "air",
+            "corn"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "There was a man who went on a trip to Mexico.   The whole, round trip took four days.  But he went on Wednesday and came back on Wednesday.   How could this be?",
+        "choices": [
+            "west",
+            "fly",
+            "black",
+            "his horses name was wednesday",
+            "china"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A thing to help  A thing to use  When it is cold  I am absorbent  I help all  When things are running i am the one to call  What am I",
+        "choices": [
+            "tissue",
+            "tampon",
+            "humans",
+            "pill",
+            "binder"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "This cowboy rides to town on Friday, he stays in a niht for 2 nights and leaves on Friday.  How is that possible.",
+        "choices": [
+            "bus",
+            "human activity",
+            "sunset",
+            "his horses name is friday",
+            "ticket"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A toy that requires some string and a breezy day",
+        "choices": [
+            "fishing rod",
+            "kite",
+            "action",
+            "quark",
+            "games"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I cost no money to use, or conscious effort to take part of and as far as you can see, there is nothing to me but without me, you are dead",
+        "choices": [
+            "life",
+            "Steam",
+            "air",
+            "orbit",
+            "blow"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What has endless makeovers,   Doesn't know it has a different look,   And it can brighten up any dull room?",
+        "choices": [
+            "wall",
+            "buildings",
+            "jar",
+            "housing",
+            "workroom"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What do we never see with our own eyes yet see it whenever you brush your teeth, we couldn't live without it and will never leave us?",
+        "choices": [
+            "fight",
+            "uveoscleral pathway",
+            "between the eyebrows",
+            "someones face",
+            "your nose"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I turn polar bears white  and I will make you cry.   I make guys have to pee  and girls comb their hair.   I make celebrities look stupid  and normal people look like celebrities.   I turn pancakes brown  and make your champane bubble.   If you sqeeze me, I'll pop.   If you look at me, you'll pop.   Can you guess the riddle?",
+        "choices": [
+            "shower",
+            "hair space",
+            "sun",
+            "stroke",
+            "squeeze"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A boy came home from school one day and said hi to a man in his front yard.  The boy talked to the man and played with the man everyday for two weeks.  Then one day the man was not there.  In his place a carrot, twigs, and a puddle of water remain.",
+        "choices": [
+            "snowflake",
+            "weather",
+            "snowman",
+            "garden patch",
+            "plant"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "what bus travels from spain to america?",
+        "choices": [
+            "large city",
+            "columbus",
+            "apple tree",
+            "united states",
+            "state"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A MAN BEING HELD IN JAIL GETS A VISITOR.   AFTER THE VISITOR LEAVES, THE JAILOR ASKS WHO IT WAS THAT CAME TO SEE HIM.  THE MAN REPLIES \"BROTHERS AND SISTERS I HAVE NONE, BUT THAT MAN'S DAD IS MY DAD'S SON. \"   WHO WAS HE.",
+        "choices": [
+            "cousin",
+            "gender",
+            "daughter",
+            "lady",
+            "his son"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "It is probably the most laid-back member of the animal kingdom",
+        "choices": [
+            "sloth",
+            "breath",
+            "mobile",
+            "animals",
+            "laid back"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I do not discriminate.   Some people fear me.    Some people accept me.    Some people cheat me.    What am I?",
+        "choices": [
+            "do",
+            "village",
+            "adultery",
+            "dreaming",
+            "death"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "A man rode to town on Friday.   He stayed there all night,  and came back on the same Friday.   How can this be?",
+        "choices": [
+            "reopen on friday",
+            "come back on michigan",
+            "his house is named after him",
+            "his horse is named friday",
+            "conveyance"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I repeat only the last word you say.  The more I repeat, the softer I got.  I cannot be seen but can be heard.  What am I?",
+        "choices": [
+            "echo",
+            "scripture",
+            "repetition",
+            "rock",
+            "game"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "what is black and quick as a flash?",
+        "choices": [
+            "salt",
+            "road",
+            "sand",
+            "part",
+            "squirrel"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "If Friday the horse goes into the park at 7:00 and on Sunday the horse goes into the park at 8:00 what is the horses name?",
+        "choices": [
+            "friday",
+            "twitch",
+            "trash",
+            "american southwest",
+            "california"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You can hold me in your hand and yet I can fill the entire room.  What am I?",
+        "choices": [
+            "side chair",
+            "light bulb",
+            "play",
+            "hair",
+            "war room"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "You hear it speak, for it has a hard tongue.  But it cannot breathe, for it has not a lung.    What is it?",
+        "choices": [
+            "bell",
+            "nose",
+            "throat",
+            "mother tongue",
+            "lick"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "what have three legs and one eye?",
+        "choices": [
+            "humans",
+            "traffic light",
+            "legs",
+            "a penguin's body",
+            "lap"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am black as night,  But filled with light.   I can be seen,  Even through a screen.   I hold many secrets,  Waiting for them to be discovered.   What am I?",
+        "choices": [
+            "air",
+            "dream",
+            "outer space",
+            "blacking",
+            "nearby"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A man went out of town on Friday, he stayed three days and returned on Friday, How is this possible?",
+        "choices": [
+            "black Friday",
+            "dawn",
+            "his horses name was friday",
+            "bear",
+            "art"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A canvas full of stars",
+        "choices": [
+            "sky",
+            "plane figure",
+            "mark",
+            "night sky",
+            "constellation"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "The memory is saved forever  however fire can end its life.   Its been around for awhile  and will never go out of style.",
+        "choices": [
+            "age",
+            "decaying",
+            "picture",
+            "pencil",
+            "flash"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Shoot at me a thousand times and I may still survive; one scratch from me and you will find your prospects take a dive.  What am I?",
+        "choices": [
+            "grenade",
+            "eightball",
+            "good",
+            "heroin",
+            "crash dive"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What makes a loud noise when changing its jacket, becomes larger but weighs less?",
+        "choices": [
+            "popcorn",
+            "bomber",
+            "store",
+            "pet store",
+            "concert"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What has a head at night but not in the morning?",
+        "choices": [
+            "sleeping",
+            "pillow",
+            "neck",
+            "shampoo",
+            "beer"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I have a single waving hand I'm present in places across the land  On fairer days, I depart  I shorten with a broken heart.  What am I?",
+        "choices": [
+            "flag",
+            "terrier",
+            "show",
+            "being here",
+            "horse"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "where can you go whithout accually being there",
+        "choices": [
+            "train station",
+            "papal cross",
+            "prime",
+            "dream",
+            "night owl"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "It is a symphony of noise, it can produce both grief and joys, it is inspiring and grand, made by a person or a band",
+        "choices": [
+            "music",
+            "scholar",
+            "chatter",
+            "chain link fence",
+            "transmission"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I am pink I have a curly and I am fat what am I?",
+        "choices": [
+            "dianthus",
+            "pig",
+            "dry measure",
+            "sheep",
+            "Frankenstein"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am all ways in front of you but can never be seen think of tomorrow and you'll know what I mean what am i?",
+        "choices": [
+            "life",
+            "eating",
+            "change",
+            "future",
+            "space"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "We are little brethren twain, arbiters of loss and gain; man to our counters run, some are made, and some undone; but men find it, to their cost, few are made, but numbers lost; though we play them tricks for ever, yet they always hope our favor",
+        "choices": [
+            "pachisi",
+            "jigsaw puzzle",
+            "gaming",
+            "despair",
+            "dice"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What does everyone wait for, but when it comes, you still have to wait?",
+        "choices": [
+            "tomorrow",
+            "get impatient",
+            "stop",
+            "patiently",
+            "act"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "you can hear me but you can never see me, what am i?",
+        "choices": [
+            "rabbit",
+            "fart",
+            "volume",
+            "like",
+            "scream"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Four fingers and a thumb,  Yet flesh and blood I have none.   What am I?",
+        "choices": [
+            "smear",
+            "tongue",
+            "pair of gloves",
+            "covering",
+            "lotion"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Though my beauty is becoming i can hurt you just the same; i come in many colors; i am what i am by any other name",
+        "choices": [
+            "sunset",
+            "black",
+            "discoloration",
+            "aid",
+            "rose"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "A gentle with one leg.",
+        "choices": [
+            "injury",
+            "gentleman",
+            "stump",
+            "mushroom",
+            "skin"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I have many feathers to help me fly.  I have a body and head, but I'm not alive.  It is your strength which determines how far I go.  You can hold me in your hand, but I'm never thrown.  What am I?",
+        "choices": [
+            "stone",
+            "arrow",
+            "wind",
+            "lance",
+            "birdhouse"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "This is as light as a feather, yet not even Arnold the Governor of Cali-fornia can hold it for long.  What is it?",
+        "choices": [
+            "cap",
+            "head",
+            "his breath",
+            "capillaries",
+            "his belt"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A man rode in to town on Friday, stayed for 2 nights, and left on Friday.   How is this possible?",
+        "choices": [
+            "course",
+            "dusk",
+            "his horses name was friday",
+            "night time",
+            "move"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Nothing on the outside   Nothing on the inside  Light as a feather  Yet ten men cannot lift it.    What is it?",
+        "choices": [
+            "shower",
+            "japanese tea room",
+            "bubble",
+            "cake batter",
+            "soup"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "i am orange all over,sweet and some times spice,nastey,dry. i have seeds. you eat me and it mate become a mese.",
+        "choices": [
+            "orange",
+            "galapagos archipelago",
+            "fruit cocktail",
+            "ripe",
+            "sweet birch"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I am tall sometimes im short, wide sometimes thin and i acompany three others.  what am I?",
+        "choices": [
+            "words",
+            "finger",
+            "pin",
+            "stop",
+            "plant"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "My days are numbered what am i ??",
+        "choices": [
+            "date",
+            "shirt sleeve",
+            "may",
+            "calender",
+            "calendar"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What's black when you get it, red when you use it, and white when you're all through with it?",
+        "choices": [
+            "grey",
+            "paper",
+            "kettlebell",
+            "carbon black",
+            "charcoal"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "It/this person has a head and a tail but it has no body what/who is it",
+        "choices": [
+            "introvert",
+            "disembodied head",
+            "coin",
+            "bodycam",
+            "congress"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "If only we could understand that   nothing helps us comprehend the   finding of something with no end.   Immeasureable immensity,  not far different from divinity,   inescapable destiny and definition of eternity   the number eight holds the key,  you unlock this mystery.",
+        "choices": [
+            "congruence",
+            "scad",
+            "line",
+            "infinity",
+            "beginning"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "i can sizzle like bacon            i am made in a egg  i have plenty of backbone, but lack of my legs.             i peel layers like an onion, but still remain whole.  I can be long like a flag pole yet fit in a hole.  i come at you in all sorts of colors, and some times i like being around water.   What am I?",
+        "choices": [
+            "comfort",
+            "red",
+            "giftwrap",
+            "root",
+            "snake"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Look at me.  I can bring a smile to your face, a tear to your eye, or even a thought to your mind.  But, I can't be seen.  What am I?",
+        "choices": [
+            "see light",
+            "hatred",
+            "light up",
+            "memories",
+            "insight"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When does Halloween come before Valentine's day?",
+        "choices": [
+            "calendar",
+            "flag",
+            "children",
+            "in a dictionary",
+            "support"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "If Mr.  Yellow lives in the yellow house, and Mrs.  Gray lives in the gray house, and Mr.  Blue lives in the blue house, and Mrs.  Red lives in the red house, who lives in the white house?",
+        "choices": [
+            "detached house",
+            "president",
+            "bathhouse",
+            "wife of king",
+            "south"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am always busy if you need an answer i can give it to you some people think i'm stupid some people think i'm smart??? and if you push my buttons right your sure to get something what am i?",
+        "choices": [
+            "present",
+            "problem",
+            "ask questions",
+            "computer",
+            "touch"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Mount mount mount mount mount mount mount mount mount mount",
+        "choices": [
+            "heavenly body",
+            "hill",
+            "precarious",
+            "climbing",
+            "mountain"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I travel all around the world but I always stay in a corner.  What am I?",
+        "choices": [
+            "police station",
+            "cabinet",
+            "postage stamp",
+            "globe",
+            "prison"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "a man takes a women to see a film the saw what they saw and the film was then sawed into litle peices and they saw it all happen what film did they saw i mean see",
+        "choices": [
+            "saw",
+            "board",
+            "look at film",
+            "trust",
+            "tape"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I am a monster in a dark tunnel.  Pull me back and I will bite you.  What am I?",
+        "choices": [
+            "horror movie",
+            "bullet",
+            "proof",
+            "break",
+            "bed"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What goes up but doesnt come down, what gets bigger but not smaller.  What adds on but doesnt add off.",
+        "choices": [
+            "statement",
+            "stress",
+            "fatigue",
+            "flower",
+            "your age"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "It has no head,leg,eyes,nose,ears and feet only body and mouth.  It answers when you ask a question.  It has many mouth.",
+        "choices": [
+            "human face",
+            "nice",
+            "books",
+            "pants",
+            "wine"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am here today, maybe tomorrow, I was here yesteray, I could be here next week, I have always been here, hopefully I won't be destroyed or everyone will suffer a horrid death.  I hold many secrets I hold many ancient things, I know all, but you can not ask me for I will not answer.",
+        "choices": [
+            "one",
+            "mysteries",
+            "boat",
+            "earth",
+            "my grave"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "My seas have no water, my mountains have no rock, and my land has no grass.  what am I?",
+        "choices": [
+            "bottled water",
+            "map",
+            "pebble",
+            "pail",
+            "highland"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Ten Men's Strength,   Ten Men's Length,   Ten Men can't break it,   Yet a young boy walks off with it     What am I?",
+        "choices": [
+            "lumber",
+            "rope",
+            "ten men's handbag",
+            "ladder",
+            "horn"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "You are sad upon my arrival  but to some am close to a miracle.   I ruin your plans so you despise me,  and yet you wouldn't survive without me.",
+        "choices": [
+            "map",
+            "dark",
+            "agony",
+            "rain",
+            "shipwreck"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "There is a bomb on top of a computer.  Around the computer there is a phone, a hairbrush, keys and a cup.  When the explosion comes which item is destroyed first?",
+        "choices": [
+            "blast",
+            "file",
+            "handle",
+            "mouse",
+            "bomb"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "As I was walking down the london bridge I saw a man and he drew his cane he lifted up the london bridge.  What was the mans name It's somewhere in the riddle?",
+        "choices": [
+            "holding",
+            "show",
+            "london city",
+            "animal",
+            "andrew"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I have legs but walk not, a strong back but work not, two good arms but reach not, a seat but sit and tarry not.  What am I?",
+        "choices": [
+            "store",
+            "armchair",
+            "relaxation",
+            "horseback",
+            "toilet seat"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I have three eyes, all in a line.   When the red one opens, all freezes.    What am I?",
+        "choices": [
+            "chorus",
+            "eyestrain",
+            "fire",
+            "traffic light",
+            "column"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What occurs once in a lifetime,twice in a moment but never in your life?",
+        "choices": [
+            "occasionally",
+            "happens to people",
+            "bore",
+            "bitch",
+            "m"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Two brothers we are, great burden we bear  By which we are bitterly pressed.   In truth we may say  We are full all the day  But empty we go to our rest.",
+        "choices": [
+            "bug",
+            "empty pocket",
+            "bearing",
+            "shoes",
+            "asset"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "i have four wings but cannot fly i never laugh and never cry you can spot me on the same place as before i'm alwas foud tailing away with a little soud what am i",
+        "choices": [
+            "windmill",
+            "talk",
+            "bathe in water",
+            "weather",
+            "tailwind"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "there are ten teeny tiny firemen in a teeny tiny truck how many t's are in that?",
+        "choices": [
+            "2",
+            "degree",
+            "firefighter",
+            "fire",
+            "pup"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Come up and let us go go down and here we stay",
+        "choices": [
+            "action",
+            "song",
+            "anchor",
+            "cum",
+            "bottom"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "They are many and one, they wave and they drum, used to cover a state, they go with you everywhere",
+        "choices": [
+            "ears",
+            "country",
+            "hands",
+            "marching band",
+            "drum set"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A cyclist in a cross-country race, just before the crossing finish line overtakes the person in second place.  What place did the cyclist finish in?",
+        "choices": [
+            "day",
+            "second",
+            "light",
+            "first class",
+            "get away from"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Round as a marble, blue as the sea, unless I am brown or grey maybe! Smile and I shine my window pane, Frown at me and down comes my rain.  I see all things, but nothing I hear, sing me to sleep and I disappear.  What am I?",
+        "choices": [
+            "eye",
+            "blue flag",
+            "flower",
+            "face",
+            "surface"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "the more of these you take, the more of these you leave behind. . what am I??",
+        "choices": [
+            "fingerprints",
+            "footsteps",
+            "do",
+            "head",
+            "add to"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I'm here,  Then I'm there,  Touch me if you dare.   Some places I've gone,  Go up in flames.   I've also been called,   By many names.   So if I come a zap zap zap,  Your life might end in a snapetty, snap snap.   What could I be?",
+        "choices": [
+            "dimensional",
+            "lightning",
+            "shout",
+            "low",
+            "eating"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "After sneaking in the abode, had he met this influential figure, he would cut his carpus, he thought to himself, who was he?",
+        "choices": [
+            "suit",
+            "fall in",
+            "muscle",
+            "neighbor",
+            "parents"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "i have got a soul but i do not live,i have a tounge but do not eat,i have a heel but i cannot stop myself what am i?",
+        "choices": [
+            "cookies",
+            "line",
+            "tongue",
+            "shoe",
+            "bread"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "You can use me to stop, You take me to smoke; Not only do I stop, But I am a stop, And the result of pool's first stroke.  What am I?",
+        "choices": [
+            "go down",
+            "brake break",
+            "typing pool",
+            "start moving",
+            "jam"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "i am in chandigarh and i rhyme with sand. WHO AM I. . . . . . . . . . . . . . . . ?",
+        "choices": [
+            "dirt",
+            "runway",
+            "windowsill",
+            "window",
+            "hand"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "He who makes it does not keep it.   He who takes it does not know it.   He who knows it does not want it.   He who gathers it must destroy it.",
+        "choices": [
+            "counterfeit money",
+            "decay",
+            "mine",
+            "evil",
+            "deny it"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I have a neck but no head i have a body but no arm i have a bottom but no leg",
+        "choices": [
+            "part",
+            "voice",
+            "counter",
+            "bottle",
+            "nursing home"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "These begin your sentences and are home to your leaders.",
+        "choices": [
+            "statesman",
+            "office",
+            "minister",
+            "hill",
+            "capital"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "The part of the bird,  that is not in the sky.   It can swim in the ocean,   and always stay dry.",
+        "choices": [
+            "snow",
+            "nest",
+            "its shadow",
+            "head",
+            "ground roller"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What gains a head at night but loses one at night?",
+        "choices": [
+            "pillow",
+            "submarine",
+            "throw",
+            "use",
+            "shampoo"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I can fill up any space  In an instant I can fill up a room  With a flip of the switch you can hide in me  With another flip you are revealed and I dissappear  I am the opposite of all things nice  And tend to shelter people when they don't want to be found?   Tell me for I don't know, what is my identity?",
+        "choices": [
+            "expression",
+            "disappear",
+            "explode",
+            "appear suddenly",
+            "darkness"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Men crave me  Men despise me  Men respect me  Men take me to thier grave  But yet i fo not die",
+        "choices": [
+            "require food",
+            "church",
+            "god",
+            "leader",
+            "respect"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I have more than 2 legs, but no arms or body.  Alot of stuff is placed upon me.  I am used often, and for many purposes.  What am I?",
+        "choices": [
+            "scale",
+            "landfill",
+            "dollar",
+            "table",
+            "sanctuary"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What can travel around the world and stay in one corner?",
+        "choices": [
+            "plow",
+            "run",
+            "postage stamp",
+            "corner of moon",
+            "painting"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I built my house with 32 white pillars.  Then I painted the floor red. What kind of house is it?",
+        "choices": [
+            "foot",
+            "walls",
+            "ants",
+            "shingle",
+            "mouth"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "You enter one hole and leave three, once you succeed I'm on thee? What am I?",
+        "choices": [
+            "change",
+            "swear",
+            "doughnuts",
+            "mine field",
+            "shirt"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What is \"off to you\" if i say \"mhoty\"?",
+        "choices": [
+            "ipod",
+            "desktop",
+            "electromagnetic spectrum",
+            "mobile phone",
+            "hat"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "A thousand colored folds stretch toward the sky, Atop a tender strand, Rising from the land, 'Til killed by maiden's hand, Perhaps a token of love, perhaps to say goodbye.  What am I?",
+        "choices": [
+            "flower",
+            "man's suitcase",
+            "note",
+            "hair",
+            "gas"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "i make you cry but I am not human, i am alive until you start chew'en",
+        "choices": [
+            "sad",
+            "onion",
+            "plants",
+            "bluegrass music",
+            "skin"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am perfectly round but I am untouchable.  Wind can effect me.  What am I?",
+        "choices": [
+            "cold",
+            "spring",
+            "bubble",
+            "ball",
+            "ineffectual"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What kind of coat can you only put on when it's wet?",
+        "choices": [
+            "change",
+            "breast pocket",
+            "sable",
+            "wave",
+            "coat of paint"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "A woman screams.  You gointo a shop and find a man lying dead on the floor.  There are three people in the room.  A postman, a milkman and a doctor.  Who killed him?",
+        "choices": [
+            "doctor",
+            "police station",
+            "liars",
+            "radio",
+            "water fountain"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I stalk you all your life  waiting for my time  the time I will bestow  upon your lips  my kiss.   And as my plan  comes together,  they shall veil your face  forevermore from the world.   What am I?",
+        "choices": [
+            "enter school",
+            "death",
+            "life vest",
+            "makeup",
+            "lips"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What did the telephone operator give his wife on their wedding aniversary?",
+        "choices": [
+            "aisle",
+            "hotel",
+            "talking",
+            "ring",
+            "church bell"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I am flora, not fauna i am foliage, not trees i am shrubbery, not grass what am i ??",
+        "choices": [
+            "vase",
+            "tangerine",
+            "bush",
+            "apple",
+            "plants"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I went to the city, I stopped there, I never went there, and I came back again. What is it?",
+        "choices": [
+            "go somewhere",
+            "eye",
+            "approach",
+            "watch",
+            "change"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What mouse needs you to move it and need something that starts with a E?",
+        "choices": [
+            "bat",
+            "drag",
+            "computer mouse",
+            "mouse trap",
+            "exit ramp"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "{ I have a long tongue, and when I am needed they use me.  I am a protector for getting hurt.  who am I?",
+        "choices": [
+            "fish market",
+            "gravel",
+            "coast",
+            "bridge",
+            "taste buds"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "what animal is soo sexy ?",
+        "choices": [
+            "cuddly pet",
+            "face",
+            "chimpanzee",
+            "zebra",
+            "woman's british bra"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Mouthless but i will tell you a name that is not mine, i will show you the years i have seen but i have no eyes, memory i have but i have no mind",
+        "choices": [
+            "statue",
+            "tongues",
+            "name tag",
+            "intellect",
+            "gravestone"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What do you wear to cover up for what you've lost?",
+        "choices": [
+            "wig",
+            "naked",
+            "dress",
+            "tile",
+            "mullet"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I like to roam but I'll always stay home, I leave a silver track, If you carried what I could carry with the way I moved , You'd break your neck and back.   What am I?",
+        "choices": [
+            "bone",
+            "train station",
+            "stew",
+            "snail",
+            "heart"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "My body is light,      My head it is white,      With a cord I am laced around;      I am beaten with sticks,      Yet not for bad tricks,      But to animate, by my sound,       The unthinking youth,      Not heeding the truth,      Which would save them from every alarm,      To fight, kill, and die,      And cause much misery,      To those who have done them no harm.",
+        "choices": [
+            "annoy",
+            "drum",
+            "bang",
+            "sailing",
+            "blunderbuss"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "whats the frozen part of lice?",
+        "choices": [
+            "ice",
+            "armpits",
+            "lice net",
+            "cold",
+            "hair salon"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "From long ago I came to be  Left Drifting in an endless sea  I see both the darkness and the light  For my possession people fight  I am but a speck in the grand design  And so remain till the end of time",
+        "choices": [
+            "energy",
+            "axies",
+            "pain",
+            "beaufort sea",
+            "earth"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I pass before the sun, yet make no shadow.   What am I?",
+        "choices": [
+            "night and day",
+            "space shuttle",
+            "cut",
+            "wind",
+            "sack"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I have seas without water i have forests without wood i have deserts without sand i have houses with no bricks",
+        "choices": [
+            "cake",
+            "freezer",
+            "map",
+            "kitten",
+            "lantern"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Even though i am far from the point and make no mistakes of my own, i fix yours what am i?",
+        "choices": [
+            "pencil",
+            "teardrops",
+            "paintbrush",
+            "end",
+            "eraser"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I am white when I am dirty, and black when I am clean.  What am I?",
+        "choices": [
+            "blackboard",
+            "white",
+            "pepper",
+            "couch",
+            "rice"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I turn everything around, but i cannot move when you see me you see you! what am i?",
+        "choices": [
+            "tool",
+            "game",
+            "retreat",
+            "mind",
+            "mirror"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "What kind of storm is always in a rush?",
+        "choices": [
+            "hurricane",
+            "wind",
+            "tropics",
+            "storm center",
+            "rain"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Mouth up it gets filled, mouth down it gets empty",
+        "choices": [
+            "spit",
+            "gas station",
+            "jar",
+            "bottle",
+            "putting"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "If it is absolute, it will corrupt absolutely",
+        "choices": [
+            "corruptible",
+            "power",
+            "relative",
+            "indeterminate",
+            "politicians"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is light enough to float but will stay in a pack and may save your life if its on your back?",
+        "choices": [
+            "salver",
+            "silk",
+            "sensitometer",
+            "parasol",
+            "parachute"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Across the waters I stretch.   But, I rest not upon them.   What am I?",
+        "choices": [
+            "rowboat",
+            "string instrument",
+            "branch water",
+            "bridge",
+            "body of water"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I can be red, or green, or yellow.   I'll help you stay a healthy fellow.   Inside I am white, I do not emit light.   But if you look just right I hold a star.",
+        "choices": [
+            "north carolina",
+            "orange",
+            "night sky",
+            "environmentalist",
+            "apple"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "There is a man who lives where he works.   Everynight when he goes to bed he has to keep the light on.   One night he gets sick and tired of having the light on when he goes to bed, so he turns it off.   When he wakes up in the morning he looks at the newspaper and kills himself.   Where does he live?",
+        "choices": [
+            "office building",
+            "beds",
+            "tv",
+            "shade",
+            "lighthouse"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Tiny as they are, but they eat homes from the inside out",
+        "choices": [
+            "water",
+            "termite",
+            "servant",
+            "towns",
+            "home movie"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Soft and fragile is my skin, I get my growth in mud I'm dangerous as much as pretty, for if not careful, I draw blood.",
+        "choices": [
+            "vampire",
+            "Alien",
+            "cutoff",
+            "thorn",
+            "growths"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Cute hares that hop and deliver eggs at easter are called by this nickname",
+        "choices": [
+            "bunny",
+            "wolf",
+            "cornpone",
+            "ingredient",
+            "lamb"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "A man walks into a store and buys something expensive.  He walks out and hands the object to sombody random and they give it back.  What is the object?",
+        "choices": [
+            "skill",
+            "Gadget",
+            "camera",
+            "science lab",
+            "pawn shop"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Silently i drink and dive in fluids dark as night i beat the mighty warrior but never in fight the black blood in my veins your thirst for knowledge slakes my spittle is more venomous than that of poison snakes",
+        "choices": [
+            "thinking",
+            "idaho",
+            "pen",
+            "swan dive",
+            "pepper"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A red cap on my head,   A stone in my throat,   Ff you tell me the answer,   I'll give you a Groat.     What am I?",
+        "choices": [
+            "green",
+            "misfortune",
+            "eating",
+            "anguish",
+            "cherry"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "whats grows up grows down?",
+        "choices": [
+            "goose",
+            "swell",
+            "wilt",
+            "tall",
+            "birds"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "For some, I am enjoyable but for others, I am terrible! It has a start and it has an end, some ends in horrible ways, and some end peacefully.   It has different stories.  Humans need me in order to live.  What am I?",
+        "choices": [
+            "education",
+            "walk",
+            "being alive",
+            "getting old",
+            "life"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I run around your yard with out moving! What am I?",
+        "choices": [
+            "locomotion",
+            "getting lost",
+            "grass",
+            "fence",
+            "leash"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "what goes up and down, side to side but never moves",
+        "choices": [
+            "road",
+            "item",
+            "glass",
+            "roller coaster",
+            "turn"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "These are crisp, green, and are found near deli sandwiches",
+        "choices": [
+            "put",
+            "canteen",
+            "pickle",
+            "soup",
+            "foodstuff"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "There are several different kinds but the one you pick doesn't do its job.  What is it?",
+        "choices": [
+            "stick",
+            "pick lock",
+            "pull apart",
+            "lock",
+            "spike"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I can go up a chimney down and down a chimney down but can't go up a chimney up and down a chimney up.  What am I?",
+        "choices": [
+            "mantel",
+            "umbrella",
+            "windmill",
+            "tube",
+            "firehouse"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "what is hard yet solid brown yet green and somtimes colours in beetween?",
+        "choices": [
+            "trees",
+            "apply for job",
+            "the sun",
+            "science",
+            "bermuda"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I am something some people have.  I am something some people don't.  Without me your time of living is dull.  Yet i can never be seen but be told you have none by someone.  What am i?",
+        "choices": [
+            "conference",
+            "bed",
+            "different",
+            "life",
+            "heat"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Hard to handle this heavy weight  At the depths of one's heart can cause one fate  Towards brothers can be hurled  Ending one's life in this world",
+        "choices": [
+            "score",
+            "hate",
+            "family",
+            "object",
+            "suicide"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "what goes up a drainpipe down, but not down a drainpipe up?",
+        "choices": [
+            "keep",
+            "door",
+            "road",
+            "umbrella",
+            "backyard"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "While exploring the wilds of Canada, Wild Man Dave was captured by hostile wood fairies.  Brad, the powerful chief of the fairies told him he could make one final statement which would determine how he would die.  If the statement he made was false, he would be boiled in water.  If the statement were true, he would be fried in oil.  Wild Man Dave found neither of this options too his liking, so he made a statement that got him out of this seemingly impossible situation.  What is the one statement he could have made?",
+        "choices": [
+            "roof",
+            "untrue",
+            "joke",
+            "s",
+            "military"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Slippery, wet and greasy, when its in its easy, when it out it jumps about, slippery wet and greasy.  What am I?",
+        "choices": [
+            "wetness",
+            "mud",
+            "fish",
+            "slip and fall",
+            "drink"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I am born when the lihgt is born, I die when the light is dead, I am the opposite of light and brightness but I am still what they give birth to.  What am I?",
+        "choices": [
+            "floodlight",
+            "shadow",
+            "newborn",
+            "intruder",
+            "darkness"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "i haver skin but no bone, i have a core and i am edible when hot and cold",
+        "choices": [
+            "flowers",
+            "axis",
+            "melted",
+            "apple",
+            "stick"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I can be nice when i want to.  And I can be mean when I want to.  My eyes are thin but sometimes wide.  What am I?",
+        "choices": [
+            "heat",
+            "weird",
+            "cat",
+            "cake",
+            "vessel"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I can bring a smile to your face, a tear to your eye, or even a thought to your mind.  But, I can't be seen.  What am I?",
+        "choices": [
+            "animal",
+            "memory",
+            "carrot",
+            "show",
+            "being alive"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "what has keys that dont match any locks",
+        "choices": [
+            "musical instrument",
+            "front door",
+            "ignition switch",
+            "compact",
+            "calculator"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "what goes first but then follows,  what fills in holes and blocks out the sky,  it scares shadows and blocks the sun.   what is it?",
+        "choices": [
+            "rain",
+            "outer space",
+            "solar system",
+            "darkness",
+            "disk"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "No arms.  No legs.  Yet I will carry your voice thousands of miles.  What am I?",
+        "choices": [
+            "telephone",
+            "radio",
+            "luggage",
+            "speaking",
+            "subway"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "With pointed fangs it sits in wait,  With piercing force its doles out fate,  Over bloodless victims proclaiming its might,  Eternally joining in a single bite.   What am I?",
+        "choices": [
+            "vomit",
+            "light",
+            "activity",
+            "stapler",
+            "box cutter"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is always slow to come, but never actually happens?",
+        "choices": [
+            "haste",
+            "limp",
+            "might",
+            "today",
+            "tomorrow"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I have an eye but can not see.  What am I?",
+        "choices": [
+            "blink",
+            "stink",
+            "nose",
+            "needle",
+            "line"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "A king without a crown",
+        "choices": [
+            "court",
+            "lion",
+            "man",
+            "paint",
+            "spleen"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "WHAT MEN PLEED FOR AT THE FIRST MOMENTS MEET.  WHAT BOYS FEAR FOR AT EVERY CORNER.    WHAT WOMEN ARE EXPERTS AT .   AND WHAT GIRLS WERE BORN TO DO.                    WHAT IS IT??",
+        "choices": [
+            "kiss",
+            "trap",
+            "movies",
+            "sex",
+            "fall in love"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You must keep this thing, its loss will affect your brothers.   For once yours is lost, it will soon be lost by others.",
+        "choices": [
+            "strength",
+            "your temper",
+            "your virginity",
+            "feel",
+            "surname"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "where can you find money when you look for it?",
+        "choices": [
+            "begging",
+            "water fountain",
+            "store",
+            "gathering",
+            "dictionary"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "gravity what a power it has on planet earth.  it hits you on the head day by day and you complain.  I come in many shapes and sizes, and melt away.  what am i?",
+        "choices": [
+            "fog",
+            "preposition",
+            "surface",
+            "sun himself",
+            "hail"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Tickle with your fingers and a song it will sing be careful, though, you may break a string what is it?",
+        "choices": [
+            "fun",
+            "birdhouse",
+            "guitar",
+            "talking",
+            "strings"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I drape the hills in white.  I do not swallow, but I sure do bite.  What am I?",
+        "choices": [
+            "breathe",
+            "rain water",
+            "forgetfulness",
+            "talk nonsense",
+            "frost"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I am as cold as death, but ever breathing.   Never thirsty, but ever drinking.   Covered in mail, but never clinking.   What am I?",
+        "choices": [
+            "im a fish",
+            "death and decay",
+            "letter",
+            "felt",
+            "warm"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I have two O's and i am \"hi\" in the middle.    What am I?",
+        "choices": [
+            "my name",
+            "ohio",
+            "oregon",
+            "heaven",
+            "edge"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I beautify the world  I rid shadow\u00e2\u20ac\u2122s doubt.   The blind ones yearn  Sleepy ones shout.   The watchman\u00e2\u20ac\u2122s friend,  A guide to commend.",
+        "choices": [
+            "pleasure",
+            "light",
+            "solution to problem",
+            "make happy",
+            "full of surprises"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am a cave full of bones, and the house of a worm what am i ??",
+        "choices": [
+            "mouth",
+            "chesapeake bay",
+            "fire",
+            "ice",
+            "remove"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "what is green on the outside red on the inside and have black and white prople inside?",
+        "choices": [
+            "plants",
+            "watermelon",
+            "money",
+            "algae",
+            "jar"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "You throw me away, I find my way back; Traditionally I'm wooden, With an arch in my back.  What am I?",
+        "choices": [
+            "calcimine",
+            "treasure chest",
+            "building",
+            "boomerang",
+            "baseball"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "These are knee-length formal wear for men popular in the highlands",
+        "choices": [
+            "miniskirt",
+            "long trousers",
+            "skirt chaser",
+            "kilt",
+            "long skirt"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I have five digits and I am used very often.",
+        "choices": [
+            "thumb",
+            "hand",
+            "point",
+            "finger",
+            "inch"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "In order to go on you need it, in order to leave you must lose it, in order to survive you must protect it, it is doomed by death, cursed from below, yet everything has it.  What is it?",
+        "choices": [
+            "life",
+            "death valley",
+            "neonatal death",
+            "country",
+            "dear life"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "iam about 4 inches long with some hair near my end while im being used a white creamy substance appears on my end and iam forcedinto a dark hole and thrusted back and forth into little circles",
+        "choices": [
+            "perfume",
+            "barber shop",
+            "bathe",
+            "toothbrush",
+            "frying pan"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I have a face, two arms, and two hands, yet I can not move.  I count to twelve, yet I can not speak.  I can still tell you something everyday.",
+        "choices": [
+            "hands",
+            "magnet",
+            "clock",
+            "vote",
+            "chair"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Many-manned scud-thumper,  Maker of worn wood,  Shrub-ruster,  Sky-mocker,  Rave!  Portly pusher,  Wind-slave.    What am I?",
+        "choices": [
+            "ocean",
+            "canal",
+            "space shuttle",
+            "shade",
+            "desert"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What is filled with air and sometimes a gas, tied to a string and often seen on your birthday?",
+        "choices": [
+            "magician",
+            "balloon",
+            "rocket",
+            "storm",
+            "pollution"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "If you are a velophile, what is it that you love?",
+        "choices": [
+            "paint",
+            "people",
+            "red",
+            "meaningful work",
+            "bicycle"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "People enjoy me yet cry before me.  What am I?",
+        "choices": [
+            "date",
+            "become human",
+            "activity",
+            "onion",
+            "skin"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is as big as and elephant but weighs nothing?",
+        "choices": [
+            "earth",
+            "white elephant",
+            "its shadow",
+            "pier",
+            "rubber band"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Hide me from your parents if you have done bad academically this year what am i ??",
+        "choices": [
+            "reportcard",
+            "suspect",
+            "anything",
+            "tercentennial",
+            "suede"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "There is an ancient invention still used in some parts of the world today that allows people to see through walls.  What is it?",
+        "choices": [
+            "fans",
+            "window",
+            "electric socket",
+            "talk",
+            "kaleidoscope"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "A structure with two occupants, sometimes one, rarely three.   Break the walls, eat the boarders, then throw away me.   What am I?",
+        "choices": [
+            "family",
+            "contain people",
+            "peanut",
+            "seed",
+            "schoolchild"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A shield to hold in your hand  but no arrows shall I block  A bowl that will no water hold  a stick to hold above your head  When you take a walk",
+        "choices": [
+            "board",
+            "bone",
+            "throwing knife",
+            "umbrella",
+            "ring"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I can be hairy and itchy all over.    I hang on a stick.    I can be the scariest thing you have ever seen.    I stand in the middle of nowhere.     What am I?",
+        "choices": [
+            "scarecrow",
+            "frightening",
+            "have no home",
+            "executions",
+            "silver"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I have many tooth that you use everyday, who am I?",
+        "choices": [
+            "head",
+            "paste",
+            "comb",
+            "spoon",
+            "dentist office"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I kill many, yet it wasn\u00e2\u20ac\u2122t my fault.   They shouldn\u00e2\u20ac\u2122t have touched my source, for they were the ones that paid the price.   Many kids can draw me, yet a lot do not  have a chance to.   I come in many forms, all of them daily.   I can start fires, and stick you to the wall.   I\u00e2\u20ac\u2122m quik moving and always hit my target.   You can run, but you can\u00e2\u20ac\u2122t hide from me.   What am I?",
+        "choices": [
+            "shooting gallery",
+            "storage",
+            "blue metal",
+            "electricity",
+            "guilt"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I can bring tears to your eyes; resurrect the dead, make you smile, and reverse time.   I form in an instant but I last a lifetime.  What am I?",
+        "choices": [
+            "wakefulness",
+            "record",
+            "memory",
+            "tomb",
+            "corpse"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is greater than god eviler than the devil.",
+        "choices": [
+            "sitan",
+            "hi",
+            "cotton",
+            "behemoth",
+            "control"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am a kind who is good at measuring things.   What am I?",
+        "choices": [
+            "giftwrap",
+            "intimidation",
+            "kind of person",
+            "ruler",
+            "instrument"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Round as a button,  Deep as a well.   If you want me to talk,  You must first pull my tail.     What am I?",
+        "choices": [
+            "congo",
+            "converse",
+            "radio",
+            "bell",
+            "ring"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Though i wander the earth, i am no longer here i am pale and i chill everyone near who am i?",
+        "choices": [
+            "canal",
+            "life",
+            "haunt",
+            "ghost",
+            "bar"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "what allways gos over but never spills",
+        "choices": [
+            "flow",
+            "tea",
+            "software",
+            "ocean",
+            "fall"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "what boombarang will not come back to you?",
+        "choices": [
+            "committee",
+            "drum set",
+            "manual",
+            "jungle gym",
+            "stick"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Which of Santa's reindeer can you see in outer space?",
+        "choices": [
+            "comet",
+            "countryside",
+            "musical notation",
+            "christmas tree",
+            "sleigh"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You can't see me, but I can see you; To be more specific, I see through.  What am I?",
+        "choices": [
+            "see through device",
+            "method",
+            "specifics",
+            "xray",
+            "fucking"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I am a fruit.  I am tasty and provide lots of energy.  You can also find me in a calendar.  What am I?",
+        "choices": [
+            "shop",
+            "choppers",
+            "date",
+            "european",
+            "movie"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "there was a box, and a camria.  what shape was the box?",
+        "choices": [
+            "square",
+            "recyclable",
+            "plastic bag",
+            "round",
+            "triangle"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What has roots no one ever sees, it's taller than the trees, up, up it goes, but yet it never grows?",
+        "choices": [
+            "plant",
+            "decaying",
+            "rise",
+            "mountain",
+            "mole"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "it captures you.  it moves you.  and then its gone. it tingles in the back of your head,tempting you to chase it.  What is it?",
+        "choices": [
+            "lure",
+            "taste of prey",
+            "tickle",
+            "object",
+            "imagination"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I cannot hear or even see, but sense light and sounds there may be.  Sometimes I end up on the hook, or even deep into a book.   What am I?",
+        "choices": [
+            "see light",
+            "companionship",
+            "worm",
+            "bird",
+            "light switch"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "It is a tasty reward that is given to well behaved dogs and kids",
+        "choices": [
+            "have",
+            "defend",
+            "working",
+            "guard house",
+            "treat"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "I'm hard as a rock, and as light as a feather.    I'm passed on to one another.    Poor people need me, and rich people have me.    What am I?",
+        "choices": [
+            "exposed",
+            "money",
+            "masses",
+            "my every move",
+            "popularity"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "a guy met two masked men were were they from",
+        "choices": [
+            "soul brother",
+            "bathtub",
+            "heaven",
+            "work",
+            "fort knox"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "what is black when you buy it , red when you use it , and gray when you throw it ?",
+        "choices": [
+            "obsidian",
+            "sunset",
+            "ink",
+            "charcoal",
+            "clouds"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I have four of these,   With matching extremities.    They can do many things,   And hardly ever bring me pain.    Unless I stick them with a pin,   Or burn them sometimes when. . .    What is it that I can wiggle at will?   And use in other means still?",
+        "choices": [
+            "muscles",
+            "bruises",
+            "fingers",
+            "pin",
+            "sick"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Precious stones in a pack of cards",
+        "choices": [
+            "device",
+            "diamonds",
+            "play games",
+            "glass",
+            "part"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "There is a thing which when we buy it is black when we use it is red when we have used it properly it is grey then we thow it?",
+        "choices": [
+            "charcoal",
+            "color",
+            "terrarium",
+            "grey",
+            "black"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What comes in many different sizes but is always only 1 foot long?",
+        "choices": [
+            "object",
+            "shoe",
+            "footing",
+            "grave",
+            "column"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "i fly but have no wings .  i cry but have no eyes  i see the sky get dark and i see when the sun comes up. What am i",
+        "choices": [
+            "light",
+            "outdoors",
+            "cloud",
+            "cage",
+            "nothing"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "i see what you see , i come in different colors with out me youll be lost.  what am i?",
+        "choices": [
+            "eye",
+            "front",
+            "sight",
+            "see things",
+            "clock"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I ALWAYS GO UP NEVER DOWN AND I WILL NEVER STOP GOING UP WHAT AM I?",
+        "choices": [
+            "always upwards",
+            "steamroller",
+            "your age",
+            "light",
+            "always upward"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "A cowboy rides in a town on Friday stays for three days and leaves on Friday.  How is that possible?",
+        "choices": [
+            "dusk",
+            "new year's eve",
+            "his horse is named friday",
+            "stay away from",
+            "reopen on monday"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What is bought by yards but worn out by feet?",
+        "choices": [
+            "sail",
+            "carpet",
+            "dollar",
+            "bee",
+            "gate"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "My host thinks I'm an irritation, a bother, a pain.  But he can't evict me, so here I will remain.  Then one day I'm taken and ranked among my peers.    Can you guess just what I am? Then you might call me dear.",
+        "choices": [
+            "military rating",
+            "animal",
+            "pearl",
+            "annoyance",
+            "macushla"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "Something everybody tends to overlook, no matter how careful they are",
+        "choices": [
+            "look",
+            "foot",
+            "nose",
+            "fall",
+            "life"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I go up and down the stairs without moving.   What am I?",
+        "choices": [
+            "change",
+            "board",
+            "my house",
+            "carpet",
+            "scorch"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What does a snowman eat for breakfast?",
+        "choices": [
+            "iceman",
+            "bass",
+            "snowflakes",
+            "snow storm",
+            "avalanches"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "I walk with you almost every day, yet you never notice me.  You step on me, but you never say sorry.  What am I?",
+        "choices": [
+            "your shoes",
+            "bulletin board",
+            "light",
+            "your socks",
+            "walking"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "It starts out small but you can make it bigger.    A lot of people have one, and they make little kids happy     what is it",
+        "choices": [
+            "garment",
+            "balloon",
+            "Presents",
+            "mirror",
+            "big dipper"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What is the softest nut in the entire world?",
+        "choices": [
+            "donut",
+            "entires",
+            "one",
+            "bread",
+            "chinchilla"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "Man walks over, man walks under, in times of war he burns asunder.  What is it?",
+        "choices": [
+            "water",
+            "bridge",
+            "tunnel",
+            "bed",
+            "pavement"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "You can see nothing else   When you look in my face,   I will look you in the eye   And I will never lie",
+        "choices": [
+            "favorite person",
+            "single",
+            "favorite shirt",
+            "your reflection",
+            "rest"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I'm as small as a kitchen chair, I have lots of feathers not hair.  I usually am the colours black, yellow and white, I don't like a fright or I could bite.  What am I?",
+        "choices": [
+            "meat",
+            "people",
+            "bird",
+            "children",
+            "penguin"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "A man walks along a street in the pouring rain, he doesn't have his hood up, and his umbrella is full of holes.  How comes not a hair on his head got wet?",
+        "choices": [
+            "man is bald",
+            "milk",
+            "group",
+            "rookie",
+            "how to get home"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You can crack me;  You can make me;  You can tell me;  You can play me.    What am I?",
+        "choices": [
+            "joke",
+            "action",
+            "put together",
+            "yard",
+            "jigsaw puzzle"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "The go-to weapon for science fiction heroes",
+        "choices": [
+            "microscopes",
+            "mine",
+            "explosive",
+            "laser",
+            "shotgun"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "When you see me, you almost always will see him.  Im always faster than he is, and my light is never dim.",
+        "choices": [
+            "thunder and lightning",
+            "turn around",
+            "see light",
+            "adjective",
+            "abstinence"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "While one goes up, the other goes down.  What are they?",
+        "choices": [
+            "life",
+            "expense",
+            "light",
+            "sun and moon",
+            "time"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Turns me on my backs, and open up my stomach you will be the wisest of men though at start a lummox what am i ??",
+        "choices": [
+            "book",
+            "outdoors",
+            "quandry",
+            "man",
+            "bull"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "You can have me almost every night,  Sometimes I could be bad sometimes I can be nice,  Whether you were a child or an adult i'll be there.    What am I?",
+        "choices": [
+            "stay in bed",
+            "pollution",
+            "humans",
+            "have sex",
+            "dream"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Four fingers and a thumb, Yet flesh and blood, I have none. \u00a0 What am I?",
+        "choices": [
+            "glove",
+            "fingerprints",
+            "dirt",
+            "fingerspelling",
+            "index finger"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What kind of room doesn't have physical walls?",
+        "choices": [
+            "mushroom",
+            "outside",
+            "bathroom",
+            "lichen",
+            "prison"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "What can you always count on?",
+        "choices": [
+            "counting",
+            "fingers",
+            "fingers crossed",
+            "solve problems",
+            "two hands"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "I am bigger than Venus but smaller than Uranus.  I am a living rock.  What am I??",
+        "choices": [
+            "matter",
+            "earth",
+            "milky way galaxy",
+            "life",
+            "penny"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "It is destruction made out of thin air, you hear it howl and give a prayer, through barns and houses it will tear it is a deadly funnel, of violent and twisting air",
+        "choices": [
+            "bay",
+            "salt",
+            "hurricane",
+            "atmosphere",
+            "thunderstorm"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "You can use me to stop,",
+        "choices": [
+            "start working",
+            "buy time",
+            "get away from",
+            "start running",
+            "brake break"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "Plates use it.   Trees loose it.   Dad persuses it.   Fire chews it.    What is it?",
+        "choices": [
+            "device",
+            "kitchen cupboard",
+            "vinyl",
+            "paper",
+            "equipment"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What is dressed when night falls and undressed when day breaks?",
+        "choices": [
+            "fire",
+            "black",
+            "undies",
+            "stick",
+            "breakwater"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "When does Christmas come before Thanksgiving?",
+        "choices": [
+            "see also",
+            "halls",
+            "meeting",
+            "in the dictionary",
+            "halloween"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "many people in a box",
+        "choices": [
+            "matches",
+            "circle",
+            "kitchen range",
+            "rectangle",
+            "batter"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "the dryer it is the wetter it gets  the wetter it is the heavier waht am i",
+        "choices": [
+            "water",
+            "dryers",
+            "hand blower",
+            "towel",
+            "telephone"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "I have a face, but I do not speak.  I have hands, but never reach.  What am I?",
+        "choices": [
+            "human face",
+            "hit",
+            "handspring",
+            "grandfather clock",
+            "waving"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "im always infront and never behind",
+        "choices": [
+            "life",
+            "main",
+            "future",
+            "stretch",
+            "stinging"
+        ],
+        "answer": "C"
+    },
+    {
+        "question": "What can get you there in eco style, pushed by your legs mile after mile?",
+        "choices": [
+            "bicycle",
+            "vehicle",
+            "highway",
+            "foot",
+            "kick"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "I fly at night, but I can't see, I am a mammal, but what am I??",
+        "choices": [
+            "flying",
+            "man",
+            "nest",
+            "manhattan",
+            "bat"
+        ],
+        "answer": "E"
+    },
+    {
+        "question": "If you drop a yellow hat in the Red Sea, what does it become?",
+        "choices": [
+            "waves",
+            "wet",
+            "fish market",
+            "crude oil",
+            "tasman sea"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "What can be driven although it doesn't have wheels, sliced but stays whole?",
+        "choices": [
+            "motorbike",
+            "golf ball",
+            "wheelbarrow",
+            "transportation",
+            "bicycle"
+        ],
+        "answer": "B"
+    },
+    {
+        "question": "Im as soft as a babies bottom, And used in many different needs and niches, As puffy as the clouds, While giving you comfort.  What am I?",
+        "choices": [
+            "tenacity",
+            "one choice",
+            "goosebumps",
+            "cotton",
+            "change"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "Hide and seek is your game, I watch you play behind me hiding from thoughs who seek you, knowing that pretty soon you will change day by day and won't need me anymore. What am I?",
+        "choices": [
+            "bush",
+            "covert",
+            "a",
+            "heaven",
+            "get away from"
+        ],
+        "answer": "A"
+    },
+    {
+        "question": "i move up and down side to side i plug in to somthin what am i",
+        "choices": [
+            "cake",
+            "block",
+            "pc screen",
+            "computer mouse",
+            "oscilloscope"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "What Goes up must come down!  But  What goes up that don't come down.",
+        "choices": [
+            "experience",
+            "get higher",
+            "location",
+            "your age",
+            "Matter of fact"
+        ],
+        "answer": "D"
+    },
+    {
+        "question": "With the rich I am blue, with the poor I am red, with the amphibian I am cold but with the dog I am hot instead, what am I?",
+        "choices": [
+            "red cross",
+            "hat rack",
+            "red clover",
+            "blood",
+            "lizard"
+        ],
+        "answer": "D"
+    }
+]

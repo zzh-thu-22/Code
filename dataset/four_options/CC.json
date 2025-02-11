@@ -1,0 +1,1135 @@
+[
+    {
+        "idx": 0,
+        "question": "Concept: Colourless red surfaces. Which of the following sentences best characterizes colourless red surfaces?",
+        "choices": [
+            "Colourless red surfaces cannot exist.",
+            "Colourless red surfaces are both red and green.",
+            "Colourless red surfaces are good tabletops for kitchens.",
+            "Colourless red surfaces are used often in interior decoration."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 1,
+        "question": "Concept: Sinless sinner. Which of the following sentences best characterizes sinless sinners?",
+        "choices": [
+            "No one can be a sinless sinner.",
+            "Sinless sinners have no clue.",
+            "Sinless sinners are letters of the alphabet.",
+            "Sinless sinners can be venial or capital."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 2,
+        "question": "Concept: Resounding silence. Which of the following sentences best characterizes resounding silences?",
+        "choices": [
+            "Resounding silences are quiet.",
+            "Resounding silences are literally deafening.",
+            "Resounding silences are produced by musical instruments.",
+            "Resounding silences are a bad omen."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 3,
+        "question": "Concept: Extroverted introvert. Which of the following sentences best characterizes extroverted introverts?",
+        "choices": [
+            "Extroverted introverts are friendly but like to be alone.",
+            "Extroverted introverts should never meet strangers in public places.",
+            "Extroverted introverts are B-list celebrities.",
+            "Extroverted introverts turn themselves inside-out."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 4,
+        "question": "Concept: Pretty ugly. Which of the following sentences best characterizes pretty ugly people?",
+        "choices": [
+            "Pretty ugly people are homely.",
+            "Pretty ugly people are pretty.",
+            "Pretty ugly people are dangerous.",
+            "Pretty ugly people are morally corrupt."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 5,
+        "question": "Concept: Old news. Which of the following sentences best characterizes old news?",
+        "choices": [
+            "Old news is established knowledge.",
+            "Old news is reporting about old people.",
+            "Old news is a liberal media conspiracy.",
+            "New discoveries about the past are old news."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 6,
+        "question": "Concept: Long shorts. Which of the following sentences best characterizes long shorts?",
+        "choices": [
+            "Long shorts end at the knee.",
+            "Long shorts are made with extra water.",
+            "Long shorts are too revealing.",
+            "Long shorts are risky."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 7,
+        "question": "Concept: turbulent peace. Which of the following sentences best characterizes turbulent peaces?",
+        "choices": [
+            "Turbulent peace is short-lived.",
+            "Turbulent peace is dangerous for planes.",
+            "Turbulent peace is windy.",
+            "Turbulent peace is full of harmony."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 8,
+        "question": "Concept: confident doubter. Which of the following sentences best characterizes confident doubters?",
+        "choices": [
+            "Confident doubters are secure in their mistrust.",
+            "Confident doubters are easy to persuade.",
+            "Confident doubters are good confidants.",
+            "Confident doubters are debatable."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 9,
+        "question": "Concept: timeless times. Which of the following sentences best characterizes timeless times?",
+        "choices": [
+            "The 60's were timeless times.",
+            "People often run out of timeless times.",
+            "Timeless times go by quickly.",
+            "Timeless times are quickly forgotten."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 10,
+        "question": "Concept: moving definition. Which of the following sentences best characterizes moving definitions?",
+        "choices": [
+            "Moving definitions change often.",
+            "Moving definitions can be very fast.",
+            "Moving definitions define movements.",
+            "Moving definitions can be expensive."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 11,
+        "question": "Concept: distasteful taste. Which of the following sentences best characterizes distateful tastes?",
+        "choices": [
+            "Distasteful tastes are unflattering.",
+            "Distasteful tastes lack flavour.",
+            "Distasteful tastes make good dishes.",
+            "Distasteful tastes titillate your taste buds."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 12,
+        "question": "Concept: mild spice. Which of the following sentences best characterizes mild spices?",
+        "choices": [
+            "Mild spices are fine for delicate stomachs.",
+            "Mild spices are lukewarm.",
+            "Mexican food is known for its mild spices.",
+            "Mild spices are not for the faint of heart."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 13,
+        "question": "Concept: good pain. Which of the following sentences best characterizes good pain?",
+        "choices": [
+            "Massage and exercise elicit good pain.",
+            "Good pain is always bad.",
+            "Medieval torture elicits good pain.",
+            "Getting punched by an angel elicits good pain."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 14,
+        "question": "Concept: deadly caregiver. Which of the following sentences best characterizes deadly caregivers?",
+        "choices": [
+            "Homicidal nurses are deadly caregivers.",
+            "Deadly caregivers take care of terminal patients.",
+            "Healthcare systems struggle due to the lack of deadly caregivers.",
+            "Morphine overdoses are deadly caregivers."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 15,
+        "question": "Concept: pointless point. Which of the following sentences best characterizes pointless points?",
+        "choices": [
+            "Pointless points make bad arguments.",
+            "Pointless points are not pointy enough.",
+            "Pointless points are important for punctuation.",
+            "Pointless points win basketball matches."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 0,
+        "question": "Concept: smelly trucks. Which of the following sentences best characterizes smelly trucks?",
+        "choices": [
+            "Smelly trucks emit lots of black smoke.",
+            "Smelly trucks are very efficient.",
+            "Smelly trucks are lightweight.",
+            "Smelly trucks are painted red."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 1,
+        "question": "Concept: sliced apples. Which of the following sentences best characterizes sliced apples?",
+        "choices": [
+            "Sliced apples are cooked in a pie.",
+            "Sliced apples are very sharp.",
+            "Sliced apples tend to bleed a lot.",
+            "Sliced apples are dysfunctional."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 2,
+        "question": "Concept: casual shirts. Which of the following sentences best characterizes casual shirts?",
+        "choices": [
+            "Casual shirts are pulled over your head.",
+            "Casual shirts do not want relationships.",
+            "Casual shirts use a lot of swear words.",
+            "Casual shirts should be worn at formal dinner parties."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 3,
+        "question": "Concept: small couches. Which of the following sentences best characterizes small couches?",
+        "choices": [
+            "Small couches seat only two people.",
+            "Small couches fit in an envelope.",
+            "Small couches are perfect for big families.",
+            "Small couches are smaller than chairs."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 4,
+        "question": "Concept: uncaged canaries. Which of the following sentences best characterizes uncaged canaries?",
+        "choices": [
+            "Uncaged canaries live in South America.",
+            "Uncaged canaries are ten times as powerful.",
+            "Uncaged canaries can freely express their political opinions.",
+            "Uncaged canaries grow more wings."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 5,
+        "question": "Concept: round tables. Which of the following sentences best characterizes round tables?",
+        "choices": [
+            "Round tables are used in conference rooms.",
+            "Round tables are used to play football.",
+            "Round tables are good for visualizing information.",
+            "Round tables can replace car wheels."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 6,
+        "question": "Concept: unshelled peas. Which of the following sentences best characterizes unshelled peas?",
+        "choices": [
+            "Unshelled peas are long.",
+            "Unshelled peas can be found on the beach.",
+            "Unshelled peas are vulnerable.",
+            "Unshelled peas are red."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 7,
+        "question": "Concept: green bicycles. Which of the following sentences best characterizes green bicycles?",
+        "choices": [
+            "Green bicycles are painted green.",
+            "Green bicycles are good to play golf.",
+            "Green bicycles are made from trees.",
+            "Green bicycles are very young."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 8,
+        "question": "Concept: overturned chairs. Which of the following sentences best characterizes overturned chairs?",
+        "choices": [
+            "Overturned chairs are placed on tables.",
+            "Overturned chairs change the law.",
+            "Overturned chairs are good to sit on.",
+            "Overturned chairs have a lot of responsabilities."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 9,
+        "question": "Concept: short pants. Which of the following sentences best characterizes short pants?",
+        "choices": [
+            "Short pants expose knees.",
+            "Short pants cannot reach high.",
+            "Short pants have empty pockets.",
+            "Short pants are better made."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 10,
+        "question": "Concept: ancient saws. Which of the following sentences best characterizes ancient saws?",
+        "choices": [
+            "Ancient saws are rusty.",
+            "Ancient saws are sharp.",
+            "Ancient saws are precious.",
+            "Ancient saws are wise."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 11,
+        "question": "Concept: Russian novels. Which of the following sentences best characterizes Russian novels?",
+        "choices": [
+            "Russian novels are written in Russian.",
+            "Russian novels are communist.",
+            "Russian novels are cold in the winter.",
+            "Russian novels are unfinished."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 12,
+        "question": "Concept: empty stores. Which of the following sentences best characterizes empty stores?",
+        "choices": [
+            "Empty stores lose money.",
+            "Empty stores make money.",
+            "Empty stores are crowded.",
+            "Empty stores are light."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 13,
+        "question": "Concept: dirty bowls. Which of the following sentences best characterizes dirty bowls?",
+        "choices": [
+            "Dirty bowls are sticky.",
+            "Dirty bowls are rusty.",
+            "Dirty bowls are delicious.",
+            "Dirty bowls are classy."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 14,
+        "question": "Concept: three-legged cows. Which of the following sentences best characterizes three-legged cows?",
+        "choices": [
+            "Three-legged cows are easy to tip.",
+            "Three-legged cows are cuddly.",
+            "Three-legged cows are aggressive.",
+            "Three-legged cows produce more milk."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 15,
+        "question": "Concept: square wheels. Which of the following sentences best characterizes square wheels?",
+        "choices": [
+            "Square wheels are inefficient.",
+            "Square wheels are efficient.",
+            "Square wheels are good for straight roads.",
+            "Square wheels are common."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 16,
+        "question": "Concept: blind ostriches. Which of the following sentences best characterizes blind ostriches?",
+        "choices": [
+            "Blind ostriches are vulnerable.",
+            "Blind ostriches block the light.",
+            "Blind ostriches are strong.",
+            "Blind ostriches use white canes."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 17,
+        "question": "Concept: white giraffes. Which of the following sentences best characterizes white giraffes?",
+        "choices": [
+            "White giraffes are rare.",
+            "White giraffes have magical powers.",
+            "White giraffes are privileged.",
+            "White giraffes are worn in the summer."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 18,
+        "question": "Concept: angry bosses. Which of the following sentences best characterizes angry bosses?",
+        "choices": [
+            "Angry bosses reprimand employees.",
+            "Angry bosses are itchy.",
+            "Angry bosses sting employees.",
+            "Angry bosses is a fun game."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 19,
+        "question": "Concept: contagious laughter. Which of the following sentences best characterizes contagious laughter?",
+        "choices": [
+            "Shared jokes cause contagious laughter.",
+            "Contagious laughter makes you sneeze.",
+            "Contagious laughter can cause permanent damage.",
+            "There is a vaccine for contagious laughter."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 20,
+        "question": "Concept: nuclear plants. Which of the following sentences best characterizes nuclear plants?",
+        "choices": [
+            "Nuclear plants use uranium to make electricity.",
+            "Nuclear plants have a man, woman and child.",
+            "Nuclear plants are in every biological cell.",
+            "Nuclear plants need a lot of fertilizer."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 21,
+        "question": "Concept: free speech. Which of the following sentences best characterizes free speech?",
+        "choices": [
+            "Free speech is the right to speak your mind.",
+            "An empty seat is free speech.",
+            "Free speech is available with a coupon.",
+            "People have more free speech on holiday."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 22,
+        "question": "Concept: burning questions. Which of the following sentences best characterizes burning questions?",
+        "choices": [
+            "Burning questions are urgent.",
+            "Burning questions are blazing hot.",
+            "Sunscreen can prevent burning questions.",
+            "Burning questions are multiple choice."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 23,
+        "question": "Concept: American cheese. Which of the following sentences best characterizes American cheese?",
+        "choices": [
+            "American cheese melts very easily.",
+            "American cheese is a kind of apple pie.",
+            "American cheese was discovered by Columbus.",
+            "American cheese is made from the milk of Americans."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 24,
+        "question": "concept: folding companies. Which of the following sentences best characterizes folding companies?",
+        "choices": [
+            "Folding companies contribute to unemployment.",
+            "Folding companies can fit in small spaces.",
+            "Folding companies manufacture origami.",
+            "Folding companies produce folds."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 25,
+        "question": "concept: loony bin. Which of the following sentences best characterizes loony bins?",
+        "choices": [
+            "Loony bins are residences for people with serious mental health issues.",
+            "Loony bins are the same size as garbage bins.",
+            "Loony bin is Canadian slang for piggy bank.",
+            "Loony bins are bird houses."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 26,
+        "question": "concept: bar stool. Which of the following sentences best characterizes bar stools?",
+        "choices": [
+            "Bar stools have long legs.",
+            "Bar stools are common in ballet classes.",
+            "Bar stools are stools that block an entrance.",
+            "Bar stools are bowel movements in pubs."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 27,
+        "question": "concept: party politics. Which of the following sentences best characterizes party politics?",
+        "choices": [
+            "Party politics concern leadership races and policy.",
+            "Party politics have hors d'oeuvres and decorations.",
+            "Party politics are votes about celebrations.",
+            "Party politics are where politicians let loose."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 28,
+        "question": "Concept: standing desks. Which of the following sentences best characterizes standing desks?",
+        "choices": [
+            "Standing desks are tall enough that small children can walk underneath them.",
+            "Standing desks are best used with standing chairs.",
+            "Standing desks are bipedal.",
+            "Standing desks are for unusually tall people."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 29,
+        "question": "Concept: old whiteboards. Which of the following sentences best characterizes old whiteboards?",
+        "choices": [
+            "Old whiteboards have marks on them that can no longer be erased.",
+            "Old whiteboards are for retirement homes.",
+            "Old whiteboards are ridden with disease.",
+            "Old whiteboards forget everything."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 30,
+        "question": "Concept: wooden deer. Which of the following sentences best characterizes wooden deer?",
+        "choices": [
+            "Wooden deer do not run away from hunters.",
+            "Wooden deer are larger than other deer species.",
+            "Wooden deer live in the forests of North America.",
+            "Wooden deer panic when caught in the headlights of an oncoming car."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 31,
+        "question": "Concept: tumbling gymnasts. Which of the following sentences best characterizes tumbling gymnasts?",
+        "choices": [
+            "Tumbling gymnasts require plenty of floor space",
+            "Tumbling gymnasts are likely to have tripped over something.",
+            "Tumbling gymnasts are typically clumsy",
+            "Tumbling gymnasts work best on a warm cycle"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 32,
+        "question": "Concept: cheating cyclists. Which of the following sentences best characterizes cheating cyclists?",
+        "choices": [
+            "Cheating cyclists use performance-enhancing drugs.",
+            "Cheating cyclists use loaded dice.",
+            "Cheating cyclists have extramarital affairs.",
+            "Cheating cyclists carry their bicycles."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 33,
+        "question": "Concept: drained pools. Which of the following sentences best characterizes drained pools?",
+        "choices": [
+            "Drained pools can be used for skateboarding.",
+            "Drained pools cool you off on a hot day.",
+            "Drained pools are dangerous, if you can't swim.",
+            "Drained pools are fun to dive into, headfirst."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 34,
+        "question": "Concept: hissing tires. Which of the following sentences best characterizes hissing tires?",
+        "choices": [
+            "Hissing tires are unsafe for driving.",
+            "Hissing tires disapprove of your driving.",
+            "Hissing tires are designed by sound engineers.",
+            "Hissing tires are to be expected in warm weather."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 35,
+        "question": "Concept: message threads. Which of the following sentences best characterizes message threads?",
+        "choices": [
+            "Message threads contain multiple messages produced in sequence.",
+            "Message threads should be held between two fingers.",
+            "Message threads are useful for sewing.",
+            "Message threads can be tied into knots."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 36,
+        "question": "Concept: crowded funerals. Which of the following sentences best characterizes crowded funerals?",
+        "choices": [
+            "Very popular people have crowded funerals.",
+            "Crowded funerals are held at mass graves.",
+            "Crowded funerals are good places to go shopping.",
+            "Crowded funerals describe a crowd of people burying each other."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 37,
+        "question": "Concept: weighted dice. Which of the following sentences best characterizes weighted dice?",
+        "choices": [
+            "Weighted dice are used by dishonest players.",
+            "Weighted dice are too heavy for children to lift.",
+            "Weighted dice bounce less than unweighted dice.",
+            "Weighted dice are good for building muscle."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 38,
+        "question": "Concept: hot people. Which of the following sentences best characterizes hot people?",
+        "choices": [
+            "Hot people are attractive.",
+            "Hot people are on fire.",
+            "Hot people are stolen property.",
+            "Hot people are spicy."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 39,
+        "question": "Concept: magic mushrooms. Which of the following sentences best characterizes magic mushrooms?",
+        "choices": [
+            "Magic mushrooms induce hallucinations.",
+            "Magic mushrooms exist only in fairy tales.",
+            "Magic mushrooms are often cooked in stews.",
+            "Magic mushrooms give superpowers."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 0,
+        "question": "Concept: Impatient trees. Which of the following sentences best characterizes impatient trees?",
+        "choices": [
+            "Impatient trees sag when you make them wait.",
+            "Impatient trees are happy to wait.",
+            "Impatient trees prefer loamy soil.",
+            "Impatient trees take a long time to bloom."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 1,
+        "question": "Concept: Talking mice. Which of the following sentences best characterizes talking mice?",
+        "choices": [
+            "Talking mice have squeaky voices.",
+            "Talking mice have booming voices.",
+            "Talking mice have no words for cheese.",
+            "Talking mice are very rude."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 2,
+        "question": "Concept: Wicked witches. Which of the following sentences best characterizes wicked witches?",
+        "choices": [
+            "Wicked witches poison princesses.",
+            "Wicked witches wear white gowns.",
+            "Wicked witches are skateboarders with magical powers.",
+            "Wicked witches eat all the sugar."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 3,
+        "question": "Concept: Upside-down world. Which of the following sentences best characterizes upside-down world?",
+        "choices": [
+            "In upside-down world, the floor is up and the ceiling is down.",
+            "In upside-down world, dropped objects fall down.",
+            "Upside-down world is made with pineapple.",
+            "Diana Ross lives in upside-down world."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 4,
+        "question": "Concept: man-bites-dog world. Which of the following sentences best characterizes man-bites-dog world?",
+        "choices": [
+            "In man-bites-dog world, men have sharp teeth and dogs are docile.",
+            "In man-bites-dog world, men are friendly to dogs.",
+            "In man-bites-dog world, newspapers thrive.",
+            "Poodles love man-bites-dog world."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 5,
+        "question": "Concept: mirrored world. Which of the following sentences best characterizes mirrored world?",
+        "choices": [
+            "In mirrored world, right and left are reversed.",
+            "In mirrored world, people like to look at themselves in mirrors.",
+            "In mirrored world, mirrors do not exist.",
+            "In mirrored world, mirrors are very expensive."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 6,
+        "question": "Concept: yes-means-no world. Which of the following sentences best characterizes yes-means-no world?",
+        "choices": [
+            "In yes-means-no world, you agree by saying no.",
+            "In yes-means-no world, there are no contradictions.",
+            "In yes-means-no world, everything is false.",
+            "In yes-means-no world, kids get to stay up late."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 7,
+        "question": "Concept: magic bean. Which of the following sentences best characterizes magic beans?",
+        "choices": [
+            "Magic beans grow into plants with amazing properties.",
+            "Magic beans are candy.",
+            "Magic beans are vegetables for TV magicians.",
+            "Magic beans make the best coffee."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 8,
+        "question": "Concept: boulder-sized diamond. Which of the following sentences best characterizes boulder-sized diamonds?",
+        "choices": [
+            "Boulder-sized diamonds would be extremely valuable.",
+            "Boulder-sized diamonds are desirable in engagement rings.",
+            "Boulder-sized diamonds are diamond-shaped rocks.",
+            "Boulder-sized diamonds are found on ski hills."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 9,
+        "question": "Concept: invisible man. Which of the following sentences best characterizes invisible men?",
+        "choices": [
+            "Invisible men can sneak up on you.",
+            "Invisible men are ugly.",
+            "Invisible men have poor eyesight.",
+            "Invisible men are snappy dressers."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 10,
+        "question": "Concept: atomic superhero. Which of the following sentences best characterizes atomic superheroes?",
+        "choices": [
+            "Atomic superheroes got their powers from nuclear experiments.",
+            "Atomic superheroes are the size of atoms.",
+            "Atomic superheroes have more atoms than usual.",
+            "Atomic superheroes have nuclear families."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 11,
+        "question": "Concept: flat world. Which of the following sentences best characterizes flat world?",
+        "choices": [
+            "In flat world, everything is 2-dimensional.",
+            "Only flatworms live in flat world.",
+            "Flat world is a great tourist destination.",
+            "Conspiracy theorists live in flat world."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 0,
+        "question": "The word 'alort' is an adjective for things that are athletes. Which of the following sentences best characterizes alort boxers?",
+        "choices": [
+            "Alort boxers wear gloves.",
+            "Alort boxers have wrinkly faces.",
+            "Alort boxers are airier than briefs.",
+            "Alort boxers put things in boxes."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 1,
+        "question": "The word 'dlort' is an adjective for things that are dogs. Which of the following sentences best characterizes dlort boxers?",
+        "choices": [
+            "Dlort boxers have brown coats.",
+            "Dlort boxers fight for the heavyweight belt.",
+            "Dlort boxers are loose in the leg.",
+            "Dlort boxers move inwards and outwards at the same time."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 2,
+        "question": "The word 'ulort' is an adjective for things that are underwear. Which of the following sentences best characterizes ulort boxers?",
+        "choices": [
+            "Ulort boxers lie on bathroom floors.",
+            "Ulort boxers lie to the media.",
+            "Ulort boxers lie in the sun.",
+            "Ulort boxers lie unopened."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 3,
+        "question": "The word 'ropgo' is an adjective for things that are made of ribbon. Which of the following sentences best characterizes ropgo bows?",
+        "choices": [
+            "Ropgo bows decorate gifts.",
+            "Ropgo bows have branches.",
+            "Ropgo bows show respect.",
+            "Ropgo bows shoot arrows."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 4,
+        "question": "The word 'sopgo' is an adjective for things that are social customs. Which of the following sentences best characterizes sopgo bows?",
+        "choices": [
+            "Sopgo bows are expected when greeting royalty.",
+            "Birds build nests in sopgo bows.",
+            "Sopgo bows are tied with knots.",
+            "Sopgo bows need to be strung."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 5,
+        "question": "The word 'wopgo' is an adjective for things that are weapons. Which of the following sentences best characterizes wopgo bows?",
+        "choices": [
+            "Wopgo bows are aimed at targets.",
+            "Wopgo bows are used to play violin.",
+            "Wopgo bows are tied around ponytails.",
+            "Wopgo bows are customary in Japan."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 6,
+        "question": "The word 'suphe' is an adjective for things that are long and thin. Which of the following sentences best characterizes suphe poles?",
+        "choices": [
+            "Flags hang on suphe poles.",
+            "Suphe poles are at opposite sides of a sphere.",
+            "Suphe poles speak Polish.",
+            "Suphe poles have positive or negative charge."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 7,
+        "question": "The word 'muphe' is an adjective for things that are magnetic. Which of the following sentences best characterizes muphe poles?",
+        "choices": [
+            "Muphe poles have positive or negative charge.",
+            "Skiers use muphe poles.",
+            "Muphe poles are very cold.",
+            "Muphe poles eat cabbage rolls."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 8,
+        "question": "The word 'guphe' is an adjective for things that are from central Europe. Which of the following sentences best characterizes guphe Poles?",
+        "choices": [
+            "Most guphe Poles are Catholic.",
+            "Guphe Poles are used for catching fish.",
+            "The ozone layer is thinner at the guphe Poles.",
+            "Batteries have guphe Poles."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 0,
+        "question": "The word 'binne' means any animal that is furry and has four legs, and the word 'bam' means a simple sort of dwelling. Which of the following sentences best characterizes binne bams?",
+        "choices": [
+            "Binne bams are for pets.",
+            "Binne bams are typically furnished with sofas and televisions.",
+            "Binne bams are luxurious apartments.",
+            "Binne bams are places where people live."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 1,
+        "question": "The word 'diz' means a person of means, and the word 'supe' means a person of humble origins. Which of the following sentences best characterizes diz supes?",
+        "choices": [
+            "Diz supes become rich during their lifetimes.",
+            "Diz supes are humble and mean people.",
+            "Diz supes are meaningful people.",
+            "Diz supes have inherited their wealth."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 2,
+        "question": "The word 'plitter' means an object that flies by flapping wings, and the word 'nith' means an object that has no feathers. Which of the following sentences best characterizes plitter niths?",
+        "choices": [
+            "Bats are plitter niths.",
+            "No insect is a plitter nith.",
+            "Plitter niths are lighter than air.",
+            "Aeroplanes are plitter niths."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 3,
+        "question": "The word 'klambo' means a combat sport, and the word 'drobb' means protective padding. Which of the following sentences best characterizes klambo drobbs?",
+        "choices": [
+            "Klambo drobbs are safety gear.",
+            "Klambo drobbs are painful.",
+            "Bets can be placed on klambo drobbs.",
+            "Klambo drobbs are made of wood."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 4,
+        "question": "The word 'ruft' means a heavy vehicle with 4 wheels, and the word 'harl' means solar powered. Which of the following sentences best characterizes harl rufts?",
+        "choices": [
+            "Harl rufts are environmentally friendly trucks.",
+            "Harl rufts are gas guzzlers.",
+            "Children play with harl rufts.",
+            "Harl rufts work well on cloudy days."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 5,
+        "question": "The word 'zazz' means eye glasses, and the word 'gogg' means strong. Which of the following sentences best characterizes gogg zazzes?",
+        "choices": [
+            "Gogg zazzes are helpful when reading fine print.",
+            "Gogg zazzes are used by weightlifters.",
+            "Coffee is served in gogg zazzes.",
+            "Gogg zazzes are bullet proof."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 6,
+        "question": "The word 'pokt' means forests, and the word 'wolm' means wet. Which of the following sentences best characterizes wolm pokts?",
+        "choices": [
+            "Rubber boots are good for walking in wolm pokts.",
+            "Wolm pokts are refreshing to drink.",
+            "Wolm pokts are outdoor showers.",
+            "Wolm pokts can be dried with a towel."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 7,
+        "question": "The word 'nonat' means an object that sprouts from the ground, and the word 'plinc' means a an object that has not been built by humans. Which of the following sentences best characterizes plinc nonats?",
+        "choices": [
+            "Daisies are plinc nonats.",
+            "Some plinc nonats have steel foundations.",
+            "Saturn is a plinc nonat.",
+            "Plinc nonats are often inexperienced."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 8,
+        "question": "The word 'fogop' means frozen, and the word 'sluip' means food often eaten without cutlery. Which of the following sentences best characterizes fogop sluips?",
+        "choices": [
+            "Ice cream is a fogop sluip.",
+            "You serve fogop sluips at formal meals.",
+            "Hamburgers are fogop sluips.",
+            "Fogop sluips are popular in winter."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 9,
+        "question": "The word 'ribo' means orange coloured, and the word 'egarl' means plants eaten by humans. Which of the following sentences best characterizes ribo egarls?",
+        "choices": [
+            "Many ribo egarls are high in beta-carotene.",
+            "Ribo egarls are eaten by redheads.",
+            "Ribo egarls are a member of the cactus family.",
+            "Traffic cones are ribo egarls."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 10,
+        "question": "The word 'gimble' means an object that moves by means of rotating its spiked wheels, and the word 'tove' means a species of biological organism. Which of the following sentences best characterizes gimble toves?",
+        "choices": [
+            "There are no gimble toves on Earth.",
+            "Gimble toves can usually be found inside old clocks.",
+            "Glimble toves roost on cliff caves.",
+            "Farmers use pesticides to get rid of gimble toves."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 11,
+        "question": "The word 'vorpal' means something that is difficult to express in words, and the word 'borogove' means a complicated feeling or emotion. Which of the following sentences best characterizes vorpal borogoves?",
+        "choices": [
+            "Psychotheraphy can help better understand vorpal borogoves.",
+            "Novelists never care about vorpal borogoves.",
+            "Vorpal borogoves are easy to express in equations.",
+            "Vorpal borogoves make good subjects for water-cooler conversations."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 12,
+        "question": "The word 'maxome' means a deep-seated habit, and the word 'tumtum' means something that a society finds objectionable. Which of the following sentences best characterizes tumtum maxomes?",
+        "choices": [
+            "Many discriminatory behaviours are tumtum maxomes.",
+            "Tumtum maxomes are all crimes.",
+            "Tumtum maxomes are very comfy.",
+            "Tumtum maxomes do not like leaving the sofa."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 13,
+        "question": "The word 'uffish' means something that is tiring and boring, and the word 'tulgey' means something that is very time-consuming to do. Which of the following sentences best characterizes uffish tulgeys?",
+        "choices": [
+            "AI systems will take care of most uffish tulgeys.",
+            "People love uffish tulgeys.",
+            "Uffish tulgeys are great birthday gifts.",
+            "The best boardgames are uffish tulgeys."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 0,
+        "question": "The word 'borger' is an adjective for people who bite specific things for fun. Which of the following sentences best characterizes dog borgers?",
+        "choices": [
+            "Dog borgers are people who bite dogs.",
+            "Dog borgers are dogs that bite people.",
+            "Dog borgers are tasty.",
+            "Dog borgers are hungry."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 1,
+        "question": "The word 'torg' is an adjective for animals that feed on big prey. Which of the following sentences best characterizes torg flies?",
+        "choices": [
+            "Torg flies prey on animals larger than themselves.",
+            "Torg flies are big preys.",
+            "Torg flies feed big prey.",
+            "Torg flies are fed up."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 2,
+        "question": "The word 'parg' is an adjective for things that humans dislike. Which of the following sentences best characterizes parg kittens?",
+        "choices": [
+            "Parg kittens are not cute.",
+            "Parg kittens are adorable little cats.",
+            "Parg kittens dislike humans.",
+            "Parg kittens are normally adopted."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 3,
+        "question": "The word 'dax' is an adjective for things designed to have big holes in their surfaces. Which of the following sentences best characterizes dax chairs?",
+        "choices": [
+            "Dax chairs do not sell well.",
+            "Dax chairs are comfortable.",
+            "The value of dax chairs depends on investor confidence.",
+            "Dax chairs have many responsibilities."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 4,
+        "question": "The word 'vart' is an adjective for things that seek out bad smells. Which of the following sentences best characterizes vart husbands?",
+        "choices": [
+            "Vart husbands always take out the garbage.",
+            "Vart husbands are very handsome.",
+            "Vart husbands write bad cheques.",
+            "Vart husbands cheat on their wives."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 5,
+        "question": "The word \u2018wajey\u2019 is an adjective for things that glow. Which of the following sentences best characterizes wajey grapes?",
+        "choices": [
+            "Wajey grapes are easy to pick at night.",
+            "Wajey grapes are the size of walnuts.",
+            "Wajey grapes have subtle hints of Muscat.",
+            "Wajey grapes are full of worms."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 6,
+        "question": "The word \u2018diqua\u2019 is an adjective for things that drop from the sky. Which of the following sentences best characterizes diqua plates?",
+        "choices": [
+            "Diqua plates are usually broken.",
+            "Diqua plates are delivered by stork.",
+            "Stylish homes use diqua plates.",
+            "Pheasant is served on diqua plates."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 7,
+        "question": "The word 'lopso' is an adjective for people who cannot hear. Which of the following sentences best characterizes lopso composers?",
+        "choices": [
+            "Lopso composers have to imagine the sound of their music.",
+            "Lopso composers only do blind auditions.",
+            "Lopso composers make electronic dance music.",
+            "Lopso composers listen to Mozart."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 8,
+        "question": "The word 'brillig' is an adjective for things that reflect very little light. Which of the following sentences best characterizes brillig signboards?",
+        "choices": [
+            "Brillig signboards get very hot under direct sunlight.",
+            "Brillig signboards are easy to see at night.",
+            "Brillig signboards are brightly coloured.",
+            "Brillig signboards are very popular with advertisers."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 9,
+        "question": "The word 'mimsy' is an adjective for things that are very fragile. Which of the following sentences best characterizes mimsy bulls?",
+        "choices": [
+            "Mimsy bulls are typically very young or very ill.",
+            "Mimsy bulls are very popular in rodeos.",
+            "Mimsy bulls make great pets.",
+            "Mimsy bulls break into a thousand pieces when dropped."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 10,
+        "question": "The word 'frumious' is an adjective for things that are very threatening. Which of the following sentences best characterizes frumious pets?",
+        "choices": [
+            "If you want a frumious pet, a rattlesnake is a good choice.",
+            "Frumious pets are great companions for little children.",
+            "Frumious pets are easy to recycle.",
+            "Most people prefer frumious pets over puppies."
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 11,
+        "question": "The word 'frabgous' is an adjective for things that are joyous and respectful. Which of the following sentences best characterizes frabjous funerals?",
+        "choices": [
+            "New Orleans is known for its frabgous funerals.",
+            "Frabgous funerals are sad and boring.",
+            "People go to frabgous funerals to club.",
+            "People in frabgous funerals laugh at the deceased."
+        ],
+        "answer": "A"
+    }
+]

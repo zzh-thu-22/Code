@@ -1,0 +1,1102 @@
+[
+    {
+        "idx": 0,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: home town",
+        "choices": [
+            "town center",
+            "location",
+            "native city",
+            "home run"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 1,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Patient",
+        "choices": [
+            "Caregiver",
+            "Electric current",
+            "Quantum computing",
+            "Mortal sin"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 2,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: smoke free laws",
+        "choices": [
+            "subsidize",
+            "pubs and clubs",
+            "payments",
+            "energy"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 3,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: health care costs",
+        "choices": [
+            "pipe",
+            "tobacco consumption",
+            "formal statistical evidence",
+            "conventions"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 4,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Great Depression",
+        "choices": [
+            "Health care",
+            "Timeline of United States history",
+            "Illegalism",
+            "Big government"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 5,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: First-person narrative",
+        "choices": [
+            "Protagonist",
+            "Tradition",
+            "Yugoslavia",
+            "Health insurance"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 6,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: flight training",
+        "choices": [
+            "training flight",
+            "flying instruction",
+            "examination",
+            "aircraft"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 7,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: secret service",
+        "choices": [
+            "censored",
+            "non-profit",
+            "government",
+            "great service"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 8,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Love",
+        "choices": [
+            "Tetragrammaton",
+            "Righteousness",
+            "Drug injection",
+            "Marriage"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 9,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Abdomen",
+        "choices": [
+            "Waist",
+            "Suicide",
+            "Quality",
+            "Ecclesiastical court"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 10,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Animal Liberation Front",
+        "choices": [
+            "Portuguese language",
+            "Sport",
+            "Law",
+            "Bullfighting"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 11,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: ice shelf",
+        "choices": [
+            "antarctic continent",
+            "international law",
+            "train",
+            "mineral"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 12,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: monks",
+        "choices": [
+            "us",
+            "myanmar",
+            "seats",
+            "elections"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 13,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: south coast",
+        "choices": [
+            "pink",
+            "river",
+            "forest",
+            "southern shore"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 14,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Corporal punishment in the home",
+        "choices": [
+            "Game",
+            "Spanking",
+            "Colorado",
+            "Grave"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 15,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Terrorism",
+        "choices": [
+            "Geneva Conventions",
+            "Violence",
+            "Blasphemy",
+            "Hurricane Katrina"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 16,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: work site",
+        "choices": [
+            "working area",
+            "labour force",
+            "site work",
+            "location"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 17,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Local government",
+        "choices": [
+            "Public administration",
+            "World population",
+            "Water supply",
+            "London Skolars"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 18,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: prince charles",
+        "choices": [
+            "monarchy",
+            "canada",
+            "grants in aid",
+            "reserve powers"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 19,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Ageing",
+        "choices": [
+            "Indecent exposure",
+            "Tax rate",
+            "Physical education",
+            "Retirement age"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 20,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Clothing",
+        "choices": [
+            "Association football",
+            "Marriage in Islam",
+            "Award",
+            "Sock"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 21,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: grade school",
+        "choices": [
+            "primary education",
+            "year",
+            "middle",
+            "public hospital"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 22,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: health professional",
+        "choices": [
+            "lawyer",
+            "scores",
+            "organization",
+            "medical practitioner"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 23,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: street view program",
+        "choices": [
+            "results",
+            "computer",
+            "user",
+            "google"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 24,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: research laboratory",
+        "choices": [
+            "job",
+            "court",
+            "science lab",
+            "storage"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 25,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Polo",
+        "choices": [
+            "School uniform",
+            "Equestrianism",
+            "Act of Parliament",
+            "Bullfighting"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 26,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: design process",
+        "choices": [
+            "developing software",
+            "employment",
+            "vision",
+            "understanding"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 27,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Soft drink",
+        "choices": [
+            "Small intestine",
+            "Desktop",
+            "Fast food",
+            "Outlet store"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 28,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: surrounding area",
+        "choices": [
+            "regional basis",
+            "pacific region",
+            "location",
+            "vicinity"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 29,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Vehicle",
+        "choices": [
+            "Driving under the influence",
+            "Flat tax",
+            "Joule",
+            "City status in the United Kingdom"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 30,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: school education",
+        "choices": [
+            "trial",
+            "academic study",
+            "analysis",
+            "case study"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 31,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Photovoltaics",
+        "choices": [
+            "Fluid",
+            "Wind power",
+            "Solar energy",
+            "Hoover Dam"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 32,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: effects of smoking",
+        "choices": [
+            "states",
+            "subsidize",
+            "restaurants",
+            "lung diseases"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 33,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Miss America",
+        "choices": [
+            "Protest",
+            "Tooth",
+            "Draft-card burning",
+            "Beauty pageant"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 34,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Quantum computing",
+        "choices": [
+            "Fingerprint",
+            "Science",
+            "Embryonic stem cell",
+            "Biological system"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 35,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Uterus",
+        "choices": [
+            "Drive theory",
+            "Psychology",
+            "School",
+            "Intact dilation and extraction"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 36,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Renewable resource",
+        "choices": [
+            "Wind energy",
+            "Machine",
+            "Gasification",
+            "Field-effect transistor"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 37,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: refugees",
+        "choices": [
+            "country",
+            "home affairs",
+            "criminal casework team",
+            "asylum applications"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 38,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: birth control",
+        "choices": [
+            "hiv and aids",
+            "barrier methods of contraception",
+            "oil based lubricants",
+            "diseases"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 39,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: india and pakistan",
+        "choices": [
+            "cities",
+            "president",
+            "heavy water",
+            "countries"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 40,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Probability",
+        "choices": [
+            "Coin flipping",
+            "Tax exemption",
+            "Sovereignty",
+            "Price"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 41,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Ingestion",
+        "choices": [
+            "Stomach",
+            "Resin",
+            "Electron configuration",
+            "Zinc"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 42,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Gaming law",
+        "choices": [
+            "United States",
+            "Public company",
+            "Gambling",
+            "Randomness"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 43,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Wastewater",
+        "choices": [
+            "Copyright",
+            "Sewer",
+            "Shortness of breath",
+            "Fog"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 44,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Homosexuality",
+        "choices": [
+            "Prosecutor",
+            "Age of consent",
+            "Same-sex marriage",
+            "Sewing"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 45,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: brain injury",
+        "choices": [
+            "boxing",
+            "process",
+            "hand",
+            "body"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 46,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: tape recording",
+        "choices": [
+            "registration system",
+            "videotape",
+            "registration process",
+            "land registry"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 47,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Medicine in China",
+        "choices": [
+            "Suffering",
+            "Heart valve",
+            "Trade",
+            "Acupuncture"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 48,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: power system",
+        "choices": [
+            "electrical network",
+            "air system",
+            "powerball",
+            "farming"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 49,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: power capacity",
+        "choices": [
+            "storage capacity",
+            "operations and maintenance",
+            "megawatts",
+            "plant"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 50,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Intimate relationship",
+        "choices": [
+            "Love",
+            "Gland",
+            "Rectum",
+            "Canadian Psychological Association"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 51,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: drug trafficking",
+        "choices": [
+            "united states",
+            "cartel",
+            "law enforcement officials",
+            "colombian"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 52,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: las vegas",
+        "choices": [
+            "gambling",
+            "chance",
+            "winnings",
+            "online lotteries"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 53,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: greenhouse gases",
+        "choices": [
+            "burning fossils fuels",
+            "api",
+            "extraction",
+            "route"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 54,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: polar",
+        "choices": [
+            "future generations",
+            "mineral",
+            "outer space",
+            "antarctic continent"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 55,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: military rulers",
+        "choices": [
+            "seats",
+            "mining",
+            "dictator",
+            "europe"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 56,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: soviet union",
+        "choices": [
+            "proliferation",
+            "trident",
+            "ussr",
+            "party talks"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 57,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: flight hours",
+        "choices": [
+            "flying time",
+            "time",
+            "experience",
+            "air"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 58,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: power grid",
+        "choices": [
+            "storage",
+            "facility",
+            "electricity network",
+            "system"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 59,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: software systems",
+        "choices": [
+            "computer program",
+            "product",
+            "package",
+            "source"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 60,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: adult male",
+        "choices": [
+            "grown man",
+            "body",
+            "adonis",
+            "population"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 61,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: pressure gauge",
+        "choices": [
+            "manometer",
+            "gage",
+            "pipe",
+            "dead"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 62,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Market trend",
+        "choices": [
+            "Price",
+            "Vertical integration",
+            "Work",
+            "Salary"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 63,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Recreational drug use",
+        "choices": [
+            "Psilocybin",
+            "Coercion",
+            "Conviction",
+            "Corporal punishment in the home"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 64,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: gaming",
+        "choices": [
+            "minors",
+            "forms of violence",
+            "effects",
+            "video games"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 65,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Renewable energy",
+        "choices": [
+            "Surveying",
+            "Alcohol by volume",
+            "Solar energy",
+            "Water pollution"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 66,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: first person shooter",
+        "choices": [
+            "violent video games",
+            "minors",
+            "youth",
+            "studies"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 67,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Primary education",
+        "choices": [
+            "Rural area",
+            "School",
+            "Potentiality and actuality",
+            "Federal Perkins Loan"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 68,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: destruction of habitat",
+        "choices": [
+            "endangered species",
+            "tropical",
+            "desert",
+            "sustainable"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 69,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Surgery",
+        "choices": [
+            "Procedure",
+            "Tennessee Republican Party",
+            "Free flap",
+            "Fertilisation"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 70,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: green light",
+        "choices": [
+            "thumb",
+            "light green",
+            "go-ahead",
+            "approval"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 71,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: front entrance",
+        "choices": [
+            "foyer",
+            "main",
+            "main gate",
+            "visitor"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 72,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: lung cancer",
+        "choices": [
+            "subsidize",
+            "states",
+            "smoking",
+            "marketing"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 73,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: east coast",
+        "choices": [
+            "eastern shore",
+            "remains",
+            "shore",
+            "stand"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 74,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Fertility",
+        "choices": [
+            "Agriculture",
+            "Cognition",
+            "Bleeding",
+            "Fallopian tube"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 75,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Dwelling",
+        "choices": [
+            "Tower block",
+            "Stock",
+            "Theft",
+            "Physical abuse"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 76,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: HIV",
+        "choices": [
+            "Significant other",
+            "STD",
+            "Discourse",
+            "Corporal punishment in the home"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 77,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Total fertility rate",
+        "choices": [
+            "Pregnancy",
+            "Theory",
+            "Financial risk",
+            "Retirement age"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 78,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: world cup",
+        "choices": [
+            "championship",
+            "cup world",
+            "germany",
+            "canoe"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 79,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Oil well",
+        "choices": [
+            "Wind power",
+            "Natural gas",
+            "Rain",
+            "Wastewater"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 80,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Liquid",
+        "choices": [
+            "Ice",
+            "Stone",
+            "Wood",
+            "Water"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 81,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Display device",
+        "choices": [
+            "Telegraphy",
+            "Television",
+            "Classic rock",
+            "Federal Trade Commission Act of 1914"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 82,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Parking",
+        "choices": [
+            "Basement",
+            "Spatial mismatch",
+            "Cars",
+            "Number"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 83,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: square foot",
+        "choices": [
+            "water",
+            "sq ft",
+            "footage",
+            "facility"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 84,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Physical abuse",
+        "choices": [
+            "Spanking",
+            "School",
+            "Social relation",
+            "Son of God"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 85,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: local school districts",
+        "choices": [
+            "voucher scheme",
+            "local grocery store",
+            "education",
+            "tax"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 86,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Redistribution of income and wealth",
+        "choices": [
+            "Educational attainment in the United States",
+            "Socialism",
+            "Determinism",
+            "Free market"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 87,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: cargo container",
+        "choices": [
+            "storage tank",
+            "pod",
+            "routing information",
+            "rural route"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 88,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Social stigma",
+        "choices": [
+            "Nepal",
+            "International adoption",
+            "HIV",
+            "Patient"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 89,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Hippopotamus",
+        "choices": [
+            "Zoo",
+            "Region",
+            "Poaceae",
+            "Lawyer"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 90,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: adult female",
+        "choices": [
+            "woman",
+            "population",
+            "school",
+            "survey"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 91,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Food industry",
+        "choices": [
+            "Hypertension",
+            "Shoot",
+            "Agriculture",
+            "Sport"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 92,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Methamphetamine",
+        "choices": [
+            "Family",
+            "Priest",
+            "Video",
+            "Doping in sport"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 93,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: energy policy act",
+        "choices": [
+            "act of heroism",
+            "gambling policy",
+            "output",
+            "renewable energy technologies"
+        ],
+        "answer": "D"
+    },
+    {
+        "idx": 94,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Cruelty to animals",
+        "choices": [
+            "Relevance theory",
+            "Animal testing",
+            "Pig",
+            "Acting"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 95,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Conservation movement",
+        "choices": [
+            "Endangered species",
+            "Trophic level",
+            "Aid",
+            "Law"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 96,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Genetic testing",
+        "choices": [
+            "Modus operandi",
+            "Chromosomal translocation",
+            "Crime",
+            "Law enforcement in Belgium"
+        ],
+        "answer": "B"
+    },
+    {
+        "idx": 97,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Electricity generation",
+        "choices": [
+            "Electrical grid",
+            "Nuclear transmutation",
+            "Convection",
+            "Toxic heavy metal"
+        ],
+        "answer": "A"
+    },
+    {
+        "idx": 98,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Theft",
+        "choices": [
+            "Risk",
+            "Participatory economics",
+            "Criminal law",
+            "Social control"
+        ],
+        "answer": "C"
+    },
+    {
+        "idx": 99,
+        "question": "For each word or phrase, identify the most related choice from the listed options.\n\nQ: Old age",
+        "choices": [
+            "Apoptosis",
+            "Interest rate",
+            "Retirement",
+            "Sex selection"
+        ],
+        "answer": "C"
+    }
+]
